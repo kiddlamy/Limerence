@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/MenuMap_MJ.umap",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/BP_MyGameInstance_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/GameData_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/SaveGameData_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/Default__BP_MyGameInstance_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/GameMenu_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/GameMenu_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/MenuMap_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/PauseMenu_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_U/SaveDataValue_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/SaveDataValue_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/PauseMenu_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/MenuMap_MJ.umap",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/GameMenu_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/SaveGameData_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/GameData_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/BP_MyGameInstance_MJ.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_Ui/MenuMap.umap",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_Ui/GameMenu.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_Ui/BP_MyGameInstance.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/Default__BP_MyGameInstance_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/GameMenu_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/MenuMap_C.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/Input/IMC_Default.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Student projects/Unreal/Limerence/Limerence/Content/Input/Actions/IA_Pause.uasset"
+			]
+		}
+	]
+}
