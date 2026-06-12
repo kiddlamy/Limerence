@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Student projects/Unity/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Student projects/Unity/Limerence/Limerence/Content/SaveSystem_n_UI/BP_MyGameInstance_MJ.uasset",
+				"E:/Student projects/Unity/Limerence/Limerence/Content/Input/IMC_Default.uasset",
 				"/Users/pablo/Documents/GitHub/Limerence/Limerence/Content/Input/IMC_Default.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/6/2H/P1QS8QACEIQ6JH38LE3FUN.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalObjects__/LevelBlockout/LevelBlockoutLimerence/8/DT/G19H42E1JRSDTU9547REQZ.uasset",
