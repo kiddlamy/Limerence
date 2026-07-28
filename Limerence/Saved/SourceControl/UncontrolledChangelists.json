@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/GameMenu_MJ.uasset",
 				"E:/Student projects/Unreal/Limerence/Limerence/Content/SaveSystem_n_UI/PauseMenu_MJ.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/6/2H/P1QS8QACEIQ6JH38LE3FUN.uasset",
@@ -543,6 +544,20 @@
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/9/AC/FBKCY951WJ7JNVEJU80JJP.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/7/G1/8E1GD7YW9ARI44UU9X3WKI.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/6/6B/O7LY8DZYFH07POQKPW5ODP.uasset",
+=======
+				"C:/Users/Student/Documents/AJ/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Student/Documents/AJ/Limerence/Limerence/Content/Inventory_FB/WBP_InventoryPanel_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/LetterSystem_FB/BP_SpiritLetter_FB_Child.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/6/JY/5BZ4PLPI7CMGOSMQ8APCG6.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/D/SS/OTD54BMTVP1R6T4E3KN9WD.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/Inventory_FB/WBP_InventoryItem_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/Inventory_FB/WBP_InventoryPanel_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/UI_LetterWidget_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/WB_LetterWidget_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/BPI_Interaction_FB.uasset",
+				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_SpiritLetter_OO.uasset",
+>>>>>>> Stashed changes
 				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_Letter_FB.uasset",
 				"D:/Unreal_Projects/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Unreal_Projects/Limerence/Limerence/Content/__ExternalActors__/LevelBlockout/LevelBlockoutLimerence/9/8I/KX3FZU8TO5K920T4GTM3DA.uasset",
