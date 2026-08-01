@@ -7,7 +7,29 @@
 			"files": [
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/ABP_Enemy_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/BS_Enemy_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/AI_Enemy_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/AM_AttackStab_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/AM_AttackLunge_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Achievments_OO/Widgets/WB_AchievementList_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Achievments_OO/Widgets/WB_AchievmentTile_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/SaveSystem_n_UI/PauseMenu_MJ.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Achievments_OO/Widgets/WB_AchievmentUnlockTile_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Achievments_OO/Blueprints/ST_Achievements_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Achievments_OO/Blueprints/BP_AchievementManager_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_PlayerController_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/BS_Old_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/ABP_Old_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/Old.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/MM_Attack_01_Montage.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/SKM_Manny_Simple.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/MM_Idle.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/MM_Attack_01.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/MF_Unarmed_Walk_Fwd.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/MF_Unarmed_Jog_Fwd.uasset"
 			]
 		}
 	]
