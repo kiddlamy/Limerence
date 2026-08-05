@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Log file open, 08/05/26 06:05:11
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12,6 +13,9 @@ Log file open, 08/05/26 06:05:11
 =======
 ﻿Log file open, 08/05/26 04:33:21
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+﻿Log file open, 08/05/26 04:33:21
+>>>>>>> origin/Michael
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -19,6 +23,7 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=33052)
 <<<<<<< HEAD
@@ -34,6 +39,9 @@ LogWindows: Started CrashReportClient (pid=28004)
 =======
 LogWindows: Started CrashReportClient (pid=7988)
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+LogWindows: Started CrashReportClient (pid=7988)
+>>>>>>> origin/Michael
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: Limerence
 LogCore: UTS: Unreal Trace Server launched successfully
@@ -55,6 +63,7 @@ LogCsvProfiler: Display: Metadata set : commandline="" "E:\Student projects\Unre
 LogCsvProfiler: Display: Metadata set : loginid="38149f7244586d648685a581f5710cba"
 LogCsvProfiler: Display: Metadata set : llm="0"
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.334867
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -68,10 +77,14 @@ LogStats: Stats thread started at 0.310679
 =======
 LogStats: Stats thread started at 0.296370
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+LogStats: Stats thread started at 0.296370
+>>>>>>> origin/Michael
 LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
 LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< HEAD
 <<<<<<< HEAD
          Session CrashGUID >   UECC-Windows-488F5B9A4A832A216C5952B1FA8DB745
 <<<<<<< HEAD
@@ -86,6 +99,9 @@ LogInit: Session CrashGUID >====================================================
 =======
          Session CrashGUID >   UECC-Windows-473373094E43C368FED5AD9D5651EBC0
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+         Session CrashGUID >   UECC-Windows-473373094E43C368FED5AD9D5651EBC0
+>>>>>>> origin/Michael
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [E:/Student projects/Unreal/Limerence/Limerence/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogAudio: Display: Pre-Initializing Audio Device Manager...
@@ -97,6 +113,7 @@ LogAudio: Display: AudioInfo: 'PCM' Registered
 LogAudio: Display: AudioInfo: 'BINKA' Registered
 LogAudio: Display: AudioInfo: 'RADA' Registered
 LogAudio: Display: Audio Device Manager Pre-Initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Looking for build plugins target receipt
 <<<<<<< HEAD
@@ -120,6 +137,8 @@ LogConfig: Display: Loading Linux ini files took 0.07 seconds
 LogPluginManager: Unable to find target receipt in path: E:/Student projects/Unreal/Limerence/Limerence/Binaries/Win64/*.target
 =======
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+>>>>>>> origin/Michael
 LogAssetRegistry: Display: PlatformFileJournal is not available on volume 'E:' of project directory 'E:/Student projects/Unreal/Limerence/Limerence/', so AssetDiscovery cache will not be read or written. Unavailability reason:
 	NTFS Journal is not active for volume 'E:'. Launch cmd.exe as admin and run command `fsutil usn createJournal E: m=<SizeInBytes>`. Recommended <SizeInBytes> is 0x40000000 (1GB).
 LogPluginManager: Looking for build plugins target receipt
@@ -342,6 +361,7 @@ LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
@@ -575,9 +595,18 @@ LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
-LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+=======
+LogPluginManager: Mounting Engine plugin CameraCalibrationCore
+LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
+LogPluginManager: Mounting Engine plugin CompositeCore
+LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
+>>>>>>> origin/Michael
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
 LogPluginManager: Mounting Engine plugin CompositeCore
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
@@ -595,6 +624,8 @@ LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+=======
+>>>>>>> origin/Michael
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
@@ -604,13 +635,19 @@ SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/Michael
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+<<<<<<< HEAD
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+>>>>>>> origin/Michael
 LogStudioTelemetry: Started StudioTelemetry Session
 LogNFORDenoise: NFORDenoise function starting up
 LogEOSShared: Loaded "C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll"
@@ -640,6 +677,7 @@ LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
@@ -647,6 +685,8 @@ LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 =======
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+>>>>>>> origin/Michael
 LogConfig: Applying CVar settings from Section [/Script/CompositeCore.CompositeCorePluginSettings] File [Engine]
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.6-CL-44394996
@@ -9869,6 +9909,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2026.08.05-05.05.20:837][  0]LogStall: Startup...
 [2026.08.05-05.05.20:840][  0]LogStall: Startup complete.
 [2026.08.05-05.05.20:843][  0]LogLoad: (Engine Initialization) Total time: 9.99 seconds
@@ -15444,6 +15485,1399 @@ Sampler Limit: 32
 [2026.08.05-03.33.37:197][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil2.pencil2
 [2026.08.05-03.33.37:199][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
+=======
+[2026.08.05-03.33.35:928][  0]LogStaticMesh: Built static mesh [0.12s] /Game/LevelBlockout/ModularAssets/Classroom/mug.mug
+[2026.08.05-03.33.36:456][  0]LogStall: Startup...
+[2026.08.05-03.33.36:460][  0]LogStall: Startup complete.
+[2026.08.05-03.33.36:466][  0]LogLoad: (Engine Initialization) Total time: 15.23 seconds
+[2026.08.05-03.33.36:810][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCube65 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:811][  0]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:811][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCube64189 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCube65188 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCube65.pasted__pasted__pCube65
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:812][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:812][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:812][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:812][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCube64189.pasted__pasted__pCube64189
+[2026.08.05-03.33.36:814][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCube65188.pasted__pasted__pCube65188
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCube66 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCube66190 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder7 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:816][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:816][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCube66.pasted__pasted__pCube66
+[2026.08.05-03.33.36:817][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCube66190.pasted__pasted__pCube66190
+[2026.08.05-03.33.36:819][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder7.pasted__pasted__pCylinder7
+[2026.08.05-03.33.36:819][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder7191 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:819][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder8 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder8192 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:820][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:821][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder7191.pasted__pasted__pCylinder7191
+[2026.08.05-03.33.36:821][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder8.pasted__pasted__pCylinder8
+[2026.08.05-03.33.36:823][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder8192.pasted__pasted__pCylinder8192
+[2026.08.05-03.33.36:823][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder9 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Display: Building static mesh pasted__pasted__pCylinder9193 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Display: Building static mesh pasted__pCube64 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Root: GPU size: 532 bytes. 1 Pages. 532.000 bytes per page (1.624% utilization).
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Root: GPU size: 532 bytes. 1 Pages. 532.000 bytes per page (1.624% utilization).
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Total GPU size: 532 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Total GPU size: 532 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:824][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:826][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder9.pasted__pasted__pCylinder9
+[2026.08.05-03.33.36:826][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube64.pasted__pCube64
+[2026.08.05-03.33.36:826][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pasted__pCylinder9193.pasted__pasted__pCylinder9193
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Display: Building static mesh pasted__pCube64181 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Display: Building static mesh pasted__pCube65 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Display: Building static mesh pasted__pCube65180 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:828][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:828][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:828][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube65.pasted__pCube65
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube64181.pasted__pCube64181
+[2026.08.05-03.33.36:829][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube65180.pasted__pCube65180
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Display: Building static mesh pasted__pCube66 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder7 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Display: Building static mesh pasted__pCube66182 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:831][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:831][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Root: GPU size: 524 bytes. 1 Pages. 524.000 bytes per page (1.599% utilization).
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh:   Total GPU size: 524 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube66.pasted__pCube66
+[2026.08.05-03.33.36:833][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCube66182.pasted__pCube66182
+[2026.08.05-03.33.36:834][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder7.pasted__pCylinder7
+[2026.08.05-03.33.36:835][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder8 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:835][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder7183 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:835][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder8184 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Root: GPU size: 524 bytes. 1 Pages. 524.000 bytes per page (1.599% utilization).
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Total GPU size: 524 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:836][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:837][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:838][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder8.pasted__pCylinder8
+[2026.08.05-03.33.36:838][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder7183.pasted__pCylinder7183
+[2026.08.05-03.33.36:838][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder8184.pasted__pCylinder8184
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder9 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Display: Building static mesh pasted__pCylinder9185 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Display: Building static mesh pCube64 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Root: GPU size: 532 bytes. 1 Pages. 532.000 bytes per page (1.624% utilization).
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Total GPU size: 532 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Root: GPU size: 532 bytes. 1 Pages. 532.000 bytes per page (1.624% utilization).
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh:   Total GPU size: 532 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:840][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:841][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCube64.pCube64
+[2026.08.05-03.33.36:842][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder9.pasted__pCylinder9
+[2026.08.05-03.33.36:842][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pasted__pCylinder9185.pasted__pCylinder9185
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Display: Building static mesh pCube66 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Display: Building static mesh pCylinder7 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Display: Building static mesh pCube65 (Required Memory Estimate: 0.026683 MB)...
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 456 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:844][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:844][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:845][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:845][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:845][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:845][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCube66.pCube66
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCube65.pCube65
+[2026.08.05-03.33.36:845][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCylinder7.pCylinder7
+[2026.08.05-03.33.36:847][  0]LogStaticMesh: Display: Building static mesh pCylinder8 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:847][  0]LogStaticMesh: Display: Building static mesh pCylinder9 (Required Memory Estimate: 0.057725 MB)...
+[2026.08.05-03.33.36:847][  0]LogStaticMesh: Display: Building static mesh pencil_pot (Required Memory Estimate: 0.082852 MB)...
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Adjacency [0.00s], tris: 32, UVs 1
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Adjacency [0.00s], tris: 48, UVs 1
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 32
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Input: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output without splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output with splits: 1 Clusters, 32 Triangles and 36 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Root: GPU size: 528 bytes. 1 Pages. 528.000 bytes per page (1.611% utilization).
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Total GPU size: 528 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 48
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Root: GPU size: 532 bytes. 1 Pages. 532.000 bytes per page (1.624% utilization).
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Page data disk size: 628 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Total GPU size: 532 bytes, Total disk size: 652 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Fallback [0.00s], num tris: 48
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Input: 1 Clusters, 48 Triangles and 56 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output without splits: 1 Clusters, 48 Triangles and 56 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Output with splits: 1 Clusters, 48 Triangles and 56 Vertices
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Root: GPU size: 756 bytes. 1 Pages. 756.000 bytes per page (2.307% utilization).
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Page data disk size: 980 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh:   Total GPU size: 756 bytes, Total disk size: 1004 bytes.
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:848][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.36:850][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCylinder9.pCylinder9
+[2026.08.05-03.33.36:850][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pCylinder8.pCylinder8
+[2026.08.05-03.33.36:850][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/pencil_pot.pencil_pot
+[2026.08.05-03.33.36:851][  0]LogStaticMesh: Display: Building static mesh clock (Required Memory Estimate: 0.257336 MB)...
+[2026.08.05-03.33.36:851][  0]LogStaticMesh: Display: Building static mesh desk_top (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:851][  0]LogStaticMesh: Display: Building static mesh desk_top113 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:853][  0]LogStaticMesh: Adjacency [0.00s], tris: 160, UVs 1
+[2026.08.05-03.33.36:854][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:854][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:854][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:855][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:855][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:855][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:855][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.36:855][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:857][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: Fallback [0.00s], num tris: 160
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: Fallback [0.00s], num tris: 160
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Input: 3 Clusters, 286 Triangles and 342 Vertices
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Output without splits: 3 Clusters, 286 Triangles and 342 Vertices
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Output with splits: 3 Clusters, 286 Triangles and 342 Vertices
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 3, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Root: GPU size: 4104 bytes. 1 Pages. 4104.000 bytes per page (12.524% utilization).
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Page data disk size: 3644 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:858][  0]LogStaticMesh:   Total GPU size: 4104 bytes, Total disk size: 3684 bytes.
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:858][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:866][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:866][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:866][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:867][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:867][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:867][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 473 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 473 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 473 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Root: GPU size: 5792 bytes. 1 Pages. 5792.000 bytes per page (17.676% utilization).
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Page data disk size: 5788 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Total GPU size: 5792 bytes, Total disk size: 5828 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Root: GPU size: 5560 bytes. 1 Pages. 5560.000 bytes per page (16.968% utilization).
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Page data disk size: 5504 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh:   Total GPU size: 5560 bytes, Total disk size: 5544 bytes.
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:868][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:876][  0]LogStaticMesh: Built static mesh [0.02s] /Game/LevelBlockout/ModularAssets/Classroom/clock.clock
+[2026.08.05-03.33.36:879][  0]LogStaticMesh: Display: Building static mesh desk_top129 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:881][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:881][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:882][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:893][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:894][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:895][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Root: GPU size: 5592 bytes. 1 Pages. 5592.000 bytes per page (17.065% utilization).
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Page data disk size: 5512 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:896][  0]LogStaticMesh:   Total GPU size: 5592 bytes, Total disk size: 5552 bytes.
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top.desk_top
+[2026.08.05-03.33.36:896][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top113.desk_top113
+[2026.08.05-03.33.36:900][  0]LogStaticMesh: Display: Building static mesh desk_top161 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:900][  0]LogStaticMesh: Display: Building static mesh desk_top145 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:901][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:902][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:902][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:903][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:903][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.36:903][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:914][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:914][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:914][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:914][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:916][  0]LogStaticMesh:   Root: GPU size: 5592 bytes. 1 Pages. 5592.000 bytes per page (17.065% utilization).
+[2026.08.05-03.33.36:916][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:916][  0]LogStaticMesh:   Page data disk size: 5512 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:916][  0]LogStaticMesh:   Total GPU size: 5592 bytes, Total disk size: 5552 bytes.
+[2026.08.05-03.33.36:916][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:916][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:916][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 470 Vertices
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 470 Vertices
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 470 Vertices
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Root: GPU size: 5760 bytes. 1 Pages. 5760.000 bytes per page (17.578% utilization).
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Page data disk size: 5768 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:917][  0]LogStaticMesh:   Total GPU size: 5760 bytes, Total disk size: 5808 bytes.
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:917][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:921][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top129.desk_top129
+[2026.08.05-03.33.36:925][  0]LogStaticMesh: Display: Building static mesh desk_top177 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:927][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:928][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:928][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:939][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:940][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:941][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:941][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top145.desk_top145
+[2026.08.05-03.33.36:941][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:941][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 460 Vertices
+[2026.08.05-03.33.36:941][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 460 Vertices
+[2026.08.05-03.33.36:941][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 460 Vertices
+[2026.08.05-03.33.36:941][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:942][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:942][  0]LogStaticMesh:   Root: GPU size: 5552 bytes. 1 Pages. 5552.000 bytes per page (16.943% utilization).
+[2026.08.05-03.33.36:942][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:942][  0]LogStaticMesh:   Page data disk size: 5508 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:942][  0]LogStaticMesh:   Total GPU size: 5552 bytes, Total disk size: 5548 bytes.
+[2026.08.05-03.33.36:942][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:942][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:945][  0]LogStaticMesh: Display: Building static mesh desk_top19 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:946][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top161.desk_top161
+[2026.08.05-03.33.36:948][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:948][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.36:948][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:950][  0]LogStaticMesh: Display: Building static mesh desk_top34 (Required Memory Estimate: 0.404809 MB)...
+[2026.08.05-03.33.36:952][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:952][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:952][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:961][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:962][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:962][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:963][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 478 Vertices
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 478 Vertices
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 478 Vertices
+[2026.08.05-03.33.36:963][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:963][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Root: GPU size: 5840 bytes. 1 Pages. 5840.000 bytes per page (17.822% utilization).
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Page data disk size: 5792 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:963][  0]LogStaticMesh:   Total GPU size: 5840 bytes, Total disk size: 5832 bytes.
+[2026.08.05-03.33.36:963][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:963][  0]LogStaticMesh: NaniteBuild [0.02s]
+[2026.08.05-03.33.36:965][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:966][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:967][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:968][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 461 Vertices
+[2026.08.05-03.33.36:968][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:968][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Root: GPU size: 5580 bytes. 1 Pages. 5580.000 bytes per page (17.029% utilization).
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Page data disk size: 5412 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:968][  0]LogStaticMesh:   Total GPU size: 5580 bytes, Total disk size: 5452 bytes.
+[2026.08.05-03.33.36:968][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:968][  0]LogStaticMesh: NaniteBuild [0.02s]
+[2026.08.05-03.33.36:972][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top177.desk_top177
+[2026.08.05-03.33.36:982][  0]LogStaticMesh: Display: Building static mesh desk_top49 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:984][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:984][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:984][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:993][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top19.desk_top19
+[2026.08.05-03.33.36:995][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.36:995][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top34.desk_top34
+[2026.08.05-03.33.36:995][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 464 Vertices
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: Display: Building static mesh desk_top65 (Required Memory Estimate: 0.404809 MB)...
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Root: GPU size: 5592 bytes. 1 Pages. 5592.000 bytes per page (17.065% utilization).
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Page data disk size: 5512 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.36:996][  0]LogStaticMesh:   Total GPU size: 5592 bytes, Total disk size: 5552 bytes.
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.36:996][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.36:998][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:998][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.36:998][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.36:998][  0]LogStaticMesh: Display: Building static mesh desk_top81 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.36:999][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.36:999][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.37:000][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:007][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:007][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Input: 3 Clusters, 382 Triangles and 459 Vertices
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Output without splits: 3 Clusters, 382 Triangles and 459 Vertices
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Output with splits: 3 Clusters, 382 Triangles and 459 Vertices
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Root: GPU size: 5544 bytes. 1 Pages. 5544.000 bytes per page (16.919% utilization).
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Page data disk size: 5412 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:008][  0]LogStaticMesh:   Total GPU size: 5544 bytes, Total disk size: 5452 bytes.
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:008][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:010][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:012][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:012][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:013][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:013][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:013][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Root: GPU size: 5800 bytes. 1 Pages. 5800.000 bytes per page (17.700% utilization).
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Page data disk size: 5724 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:013][  0]LogStaticMesh:   Total GPU size: 5800 bytes, Total disk size: 5764 bytes.
+[2026.08.05-03.33.37:013][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:013][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:019][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top49.desk_top49
+[2026.08.05-03.33.37:024][  0]LogStaticMesh: Display: Building static mesh desk_top97 (Required Memory Estimate: 0.404756 MB)...
+[2026.08.05-03.33.37:027][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.37:027][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.37:027][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:034][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top65.desk_top65
+[2026.08.05-03.33.37:036][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top81.desk_top81
+[2026.08.05-03.33.37:036][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.08.05-03.33.37:036][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.08.05-03.33.37:038][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:039][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:039][  0]LogStaticMesh: Display: Building static mesh whiteboard (Required Memory Estimate: 0.052498 MB)...
+[2026.08.05-03.33.37:040][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Adjacency [0.00s], tris: 28, UVs 1
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Display: Building static mesh doorframe_wall (Required Memory Estimate: 0.337725 MB)...
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Input: 1 Clusters, 28 Triangles and 46 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Output without splits: 1 Clusters, 28 Triangles and 46 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Output with splits: 1 Clusters, 28 Triangles and 46 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Root: GPU size: 664 bytes. 1 Pages. 664.000 bytes per page (2.026% utilization).
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Page data disk size: 856 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Total GPU size: 664 bytes, Total disk size: 880 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 474 Vertices
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 2, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Root: GPU size: 5796 bytes. 1 Pages. 5796.000 bytes per page (17.688% utilization).
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Page data disk size: 5792 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh:   Total GPU size: 5796 bytes, Total disk size: 5832 bytes.
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:041][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:042][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/whiteboard.whiteboard
+[2026.08.05-03.33.37:043][  0]LogStaticMesh: Adjacency [0.00s], tris: 212, UVs 1
+[2026.08.05-03.33.37:044][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:044][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:044][  0]LogStaticMesh: Display: Building static mesh onewindow_wall (Required Memory Estimate: 0.399622 MB)...
+[2026.08.05-03.33.37:047][  0]LogStaticMesh: Adjacency [0.00s], tris: 252, UVs 1
+[2026.08.05-03.33.37:047][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:047][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:050][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:051][  0]LogStaticMesh: Fallback [0.00s], num tris: 212
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: Fallback [0.00s], num tris: 212
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Input: 3 Clusters, 338 Triangles and 435 Vertices
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Output without splits: 3 Clusters, 338 Triangles and 465 Vertices
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Output with splits: 3 Clusters, 338 Triangles and 465 Vertices
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 3, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Root: GPU size: 5792 bytes. 1 Pages. 5792.000 bytes per page (17.676% utilization).
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Page data disk size: 4864 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:053][  0]LogStaticMesh:   Total GPU size: 5792 bytes, Total disk size: 4904 bytes.
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:053][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:056][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:057][  0]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.05-03.33.37:057][  0]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.05-03.33.37:057][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:057][  0]LogStaticMesh:   Input: 3 Clusters, 378 Triangles and 471 Vertices
+[2026.08.05-03.33.37:057][  0]LogStaticMesh:   Output without splits: 3 Clusters, 378 Triangles and 485 Vertices
+[2026.08.05-03.33.37:057][  0]LogStaticMesh:   Output with splits: 3 Clusters, 378 Triangles and 485 Vertices
+[2026.08.05-03.33.37:057][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 3, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:059][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:059][  0]LogStaticMesh:   Root: GPU size: 6120 bytes. 1 Pages. 6120.000 bytes per page (18.677% utilization).
+[2026.08.05-03.33.37:059][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:059][  0]LogStaticMesh:   Page data disk size: 5608 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:059][  0]LogStaticMesh:   Total GPU size: 6120 bytes, Total disk size: 5648 bytes.
+[2026.08.05-03.33.37:059][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:059][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:069][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/desk_top97.desk_top97
+[2026.08.05-03.33.37:073][  0]LogStaticMesh: Display: Building static mesh plain_wall (Required Memory Estimate: 0.077478 MB)...
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Adjacency [0.00s], tris: 44, UVs 1
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Input: 1 Clusters, 44 Triangles and 64 Vertices
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Output without splits: 1 Clusters, 44 Triangles and 64 Vertices
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Output with splits: 1 Clusters, 44 Triangles and 64 Vertices
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Root: GPU size: 880 bytes. 1 Pages. 880.000 bytes per page (2.686% utilization).
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Page data disk size: 1076 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:075][  0]LogStaticMesh:   Total GPU size: 880 bytes, Total disk size: 1100 bytes.
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:075][  0]LogStaticMesh: Built static mesh [0.03s] /Game/LevelBlockout/ModularAssets/Classroom/doorframe_wall.doorframe_wall
+[2026.08.05-03.33.37:077][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/plain_wall.plain_wall
+[2026.08.05-03.33.37:078][  0]LogStaticMesh: Display: Building static mesh threewindows_wall (Required Memory Estimate: 0.404228 MB)...
+[2026.08.05-03.33.37:078][  0]LogStaticMesh: Display: Building static mesh plain_wall1 (Required Memory Estimate: 0.077478 MB)...
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Adjacency [0.00s], tris: 44, UVs 1
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Input: 1 Clusters, 44 Triangles and 64 Vertices
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Output without splits: 1 Clusters, 44 Triangles and 66 Vertices
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Output with splits: 1 Clusters, 44 Triangles and 66 Vertices
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Root: GPU size: 912 bytes. 1 Pages. 912.000 bytes per page (2.783% utilization).
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Page data disk size: 1084 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:079][  0]LogStaticMesh:   Total GPU size: 912 bytes, Total disk size: 1108 bytes.
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:079][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:080][  0]LogStaticMesh: Adjacency [0.00s], tris: 256, UVs 1
+[2026.08.05-03.33.37:081][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.05-03.33.37:081][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:081][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/plain_wall1.plain_wall1
+[2026.08.05-03.33.37:083][  0]LogStaticMesh: Display: Building static mesh twowindows_wall (Required Memory Estimate: 0.400637 MB)...
+[2026.08.05-03.33.37:085][  0]LogStaticMesh: Adjacency [0.00s], tris: 252, UVs 1
+[2026.08.05-03.33.37:085][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:085][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:086][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/onewindow_wall.onewindow_wall
+[2026.08.05-03.33.37:090][  0]LogStaticMesh: Display: Building static mesh wall_pillar1 (Required Memory Estimate: 0.201326 MB)...
+[2026.08.05-03.33.37:091][  0]LogStaticMesh: Adjacency [0.00s], tris: 124, UVs 1
+[2026.08.05-03.33.37:091][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:091][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:091][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Input: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Output without splits: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Output with splits: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Root: GPU size: 1868 bytes. 1 Pages. 1868.000 bytes per page (5.701% utilization).
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Page data disk size: 2104 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:092][  0]LogStaticMesh:   Total GPU size: 1868 bytes, Total disk size: 2128 bytes.
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:092][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:093][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Input: 4 Clusters, 382 Triangles and 441 Vertices
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Output without splits: 4 Clusters, 382 Triangles and 457 Vertices
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Output with splits: 4 Clusters, 382 Triangles and 457 Vertices
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 4, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Root: GPU size: 6016 bytes. 1 Pages. 6016.000 bytes per page (18.359% utilization).
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Page data disk size: 5696 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:094][  0]LogStaticMesh:   Total GPU size: 6016 bytes, Total disk size: 5736 bytes.
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:094][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:095][  0]LogStaticMesh: Reduce [0.01s]
+[2026.08.05-03.33.37:096][  0]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.05-03.33.37:096][  0]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.05-03.33.37:097][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Input: 3 Clusters, 378 Triangles and 497 Vertices
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Output without splits: 3 Clusters, 378 Triangles and 507 Vertices
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Output with splits: 3 Clusters, 378 Triangles and 507 Vertices
+[2026.08.05-03.33.37:097][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 3, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:097][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Root: GPU size: 6416 bytes. 1 Pages. 6416.000 bytes per page (19.580% utilization).
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Page data disk size: 5808 bytes. Fixup data size: 40 bytes.
+[2026.08.05-03.33.37:097][  0]LogStaticMesh:   Total GPU size: 6416 bytes, Total disk size: 5848 bytes.
+[2026.08.05-03.33.37:097][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:097][  0]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.05-03.33.37:102][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/wall_pillar1.wall_pillar1
+[2026.08.05-03.33.37:104][  0]LogStaticMesh: Display: Building static mesh wall_pillar3 (Required Memory Estimate: 0.201326 MB)...
+[2026.08.05-03.33.37:105][  0]LogStaticMesh: Adjacency [0.00s], tris: 124, UVs 1
+[2026.08.05-03.33.37:105][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:105][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:105][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:106][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:106][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:106][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:106][  0]LogStaticMesh:   Input: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:106][  0]LogStaticMesh:   Output without splits: 1 Clusters, 124 Triangles and 150 Vertices
+[2026.08.05-03.33.37:106][  0]LogStaticMesh:   Output with splits: 1 Clusters, 124 Triangles and 150 Vertices
+[2026.08.05-03.33.37:106][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:106][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:108][  0]LogStaticMesh:   Root: GPU size: 1888 bytes. 1 Pages. 1888.000 bytes per page (5.762% utilization).
+[2026.08.05-03.33.37:108][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:108][  0]LogStaticMesh:   Page data disk size: 2108 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:108][  0]LogStaticMesh:   Total GPU size: 1888 bytes, Total disk size: 2132 bytes.
+[2026.08.05-03.33.37:108][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:108][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:116][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/wall_pillar3.wall_pillar3
+[2026.08.05-03.33.37:119][  0]LogStaticMesh: Display: Building static mesh wall_pillar_2 (Required Memory Estimate: 0.201326 MB)...
+[2026.08.05-03.33.37:120][  0]LogStaticMesh: Adjacency [0.00s], tris: 124, UVs 1
+[2026.08.05-03.33.37:120][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:120][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:120][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Input: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Output without splits: 1 Clusters, 124 Triangles and 150 Vertices
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Output with splits: 1 Clusters, 124 Triangles and 150 Vertices
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Root: GPU size: 1888 bytes. 1 Pages. 1888.000 bytes per page (5.762% utilization).
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Page data disk size: 2108 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:121][  0]LogStaticMesh:   Total GPU size: 1888 bytes, Total disk size: 2132 bytes.
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:121][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:123][  0]LogStaticMesh: Built static mesh [0.05s] /Game/LevelBlockout/ModularAssets/Classroom/threewindows_wall.threewindows_wall
+[2026.08.05-03.33.37:126][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Classroom/twowindows_wall.twowindows_wall
+[2026.08.05-03.33.37:126][  0]LogStaticMesh: Display: Building static mesh wall_pillar_og (Required Memory Estimate: 0.201326 MB)...
+[2026.08.05-03.33.37:127][  0]LogStaticMesh: Adjacency [0.00s], tris: 124, UVs 1
+[2026.08.05-03.33.37:127][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:127][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:127][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:127][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: Fallback [0.00s], num tris: 124
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Input: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Output without splits: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Output with splits: 1 Clusters, 124 Triangles and 148 Vertices
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Root: GPU size: 1868 bytes. 1 Pages. 1868.000 bytes per page (5.701% utilization).
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Page data disk size: 2104 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:128][  0]LogStaticMesh:   Total GPU size: 1868 bytes, Total disk size: 2128 bytes.
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:128][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:130][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/wall_pillar_2.wall_pillar_2
+[2026.08.05-03.33.37:130][  0]LogStaticMesh: Display: Building static mesh paper (Required Memory Estimate: 0.036523 MB)...
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Adjacency [0.00s], tris: 18, UVs 1
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Fallback [0.00s], num tris: 18
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Fallback [0.00s], num tris: 18
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Input: 1 Clusters, 18 Triangles and 16 Vertices
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Output without splits: 1 Clusters, 18 Triangles and 16 Vertices
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Output with splits: 1 Clusters, 18 Triangles and 16 Vertices
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Root: GPU size: 336 bytes. 1 Pages. 336.000 bytes per page (1.025% utilization).
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Page data disk size: 500 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:131][  0]LogStaticMesh:   Total GPU size: 336 bytes, Total disk size: 524 bytes.
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:131][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:132][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelBlockout/ModularAssets/Classroom/paper.paper
+[2026.08.05-03.33.37:132][  0]LogStaticMesh: Display: Building static mesh pencil (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Display: Building static mesh pencil1 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:133][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 60 Vertices
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 60 Vertices
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Root: GPU size: 832 bytes. 1 Pages. 832.000 bytes per page (2.539% utilization).
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Page data disk size: 1048 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:134][  0]LogStaticMesh:   Total GPU size: 832 bytes, Total disk size: 1072 bytes.
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:134][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/wall_pillar_og.wall_pillar_og
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:135][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:135][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil.pencil
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Display: Building static mesh pencil10 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:137][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil1.pencil1
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:139][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:139][  0]LogStaticMesh: Display: Building static mesh monstera_deliciosa_potted_mid_century_plant (Required Memory Estimate: 16.971103 MB)...
+[2026.08.05-03.33.37:141][  0]LogStaticMesh: Display: Building static mesh pencil11 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:142][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:142][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:142][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:142][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:142][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Root: GPU size: 832 bytes. 1 Pages. 832.000 bytes per page (2.539% utilization).
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:143][  0]LogStaticMesh:   Total GPU size: 832 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:143][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.05-03.33.37:143][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil10.pencil10
+[2026.08.05-03.33.37:146][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.08.05-03.33.37:146][  0]LogStaticMesh: Display: Building static mesh pencil12 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:147][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:147][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:147][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:147][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:148][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:148][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:148][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil11.pencil11
+[2026.08.05-03.33.37:148][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:148][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:148][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:148][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:148][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:149][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:149][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:149][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:149][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:149][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:149][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:149][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:151][  0]LogStaticMesh: Display: Building static mesh pencil13 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:152][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:152][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:153][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:153][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:153][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:153][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil12.pencil12
+[2026.08.05-03.33.37:157][  0]LogStaticMesh: Display: Building static mesh pencil14 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:158][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil13.pencil13
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:159][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:159][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:161][  0]LogStaticMesh: Display: Building static mesh pencil15 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 63 Vertices
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 63 Vertices
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Root: GPU size: 864 bytes. 1 Pages. 864.000 bytes per page (2.637% utilization).
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Page data disk size: 1048 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:163][  0]LogStaticMesh:   Total GPU size: 864 bytes, Total disk size: 1072 bytes.
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:163][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:168][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil14.pencil14
+[2026.08.05-03.33.37:168][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil15.pencil15
+[2026.08.05-03.33.37:170][  0]LogStaticMesh: Display: Building static mesh pencil16 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Display: Building static mesh pencil17 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:172][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:172][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:172][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Root: GPU size: 824 bytes. 1 Pages. 824.000 bytes per page (2.515% utilization).
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh:   Total GPU size: 824 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:174][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:179][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil16.pencil16
+[2026.08.05-03.33.37:179][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil17.pencil17
+[2026.08.05-03.33.37:180][  0]LogStaticMesh: Display: Building static mesh pencil18 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:181][  0]LogStaticMesh: Display: Building static mesh pencil19 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 63 Vertices
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 63 Vertices
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Root: GPU size: 864 bytes. 1 Pages. 864.000 bytes per page (2.637% utilization).
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Page data disk size: 1048 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:182][  0]LogStaticMesh:   Total GPU size: 864 bytes, Total disk size: 1072 bytes.
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:182][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Root: GPU size: 816 bytes. 1 Pages. 816.000 bytes per page (2.490% utilization).
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:183][  0]LogStaticMesh:   Total GPU size: 816 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:183][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:188][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil18.pencil18
+[2026.08.05-03.33.37:188][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil19.pencil19
+[2026.08.05-03.33.37:191][  0]LogStaticMesh: Display: Building static mesh pencil20 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:191][  0]LogStaticMesh: Display: Building static mesh pencil2 (Required Memory Estimate: 0.144309 MB)...
+[2026.08.05-03.33.37:192][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:192][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:192][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:192][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 61 Vertices
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 61 Vertices
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Root: GPU size: 832 bytes. 1 Pages. 832.000 bytes per page (2.539% utilization).
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Page data disk size: 1048 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:193][  0]LogStaticMesh:   Total GPU size: 832 bytes, Total disk size: 1072 bytes.
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:193][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Leaves [0.00s]
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Reduce [0.00s]
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Fallback [0.00s], num tris: 90
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: ConstrainClusters:
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Input: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Output without splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Output with splits: 1 Clusters, 90 Triangles and 59 Vertices
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: WritePages:
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Root: GPU size: 832 bytes. 1 Pages. 832.000 bytes per page (2.539% utilization).
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Page data disk size: 1040 bytes. Fixup data size: 24 bytes.
+[2026.08.05-03.33.37:194][  0]LogStaticMesh:   Total GPU size: 832 bytes, Total disk size: 1064 bytes.
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: Encode [0.00s]
+[2026.08.05-03.33.37:194][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.05-03.33.37:197][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil20.pencil20
+[2026.08.05-03.33.37:197][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Classroom/pencil2.pencil2
+[2026.08.05-03.33.37:199][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+>>>>>>> origin/Michael
 [2026.08.05-03.33.37:209][  0]LogStaticMesh: Display: Building static mesh pencil21 (Required Memory Estimate: 0.144309 MB)...
 [2026.08.05-03.33.37:209][  0]LogStaticMesh: Display: Building static mesh pencil22 (Required Memory Estimate: 0.144309 MB)...
 [2026.08.05-03.33.37:209][  0]LogStaticMesh: Adjacency [0.00s], tris: 90, UVs 1
@@ -15526,7 +16960,10 @@ Sampler Limit: 32
 [2026.08.05-03.33.37:210][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Importers/USDImporter/Content/Python/init_unreal.py... started...
 [2026.08.05-03.33.37:210][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Importers/USDImporter/Content/Python/init_unreal.py... took 181 us (total: 64.100 ms)
 [2026.08.05-03.33.37:210][  0]LoadErrors: Warning: While trying to load package /Game/Cylinder_072, a dependent package /Game/SmallBranch was not available. Additional explanatory information follows:
+<<<<<<< HEAD
 >>>>>>> f1f27c3 (Created save slot base)
+=======
+>>>>>>> origin/Michael
 FPackageName: Skipped package /Game/SmallBranch has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'E:/Student projects/Unreal/Limerence/Limerence/Content/SmallBranch'. Perhaps it has been deleted or was not synced?
 
 [2026.08.05-03.33.37:210][  0]LoadErrors: Warning: While trying to load package /Game/polySurface10, a dependent package /Game/spikes was not available. Additional explanatory information follows:
