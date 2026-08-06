@@ -3018,3 +3018,44 @@ Sampler Limit: 32
 [2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.06-19.58.40:102][902]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.59.34:020][693]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-20.00.01:417][310]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-20.00.15:007][569]LogSlate: Window 'Color Picker' being destroyed
+[2026.08.06-20.01.00:170][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-20.01.00:282][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.08.06-20.01.00:568][910]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-20.01.00:570][910]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel2AECAF5C4A2C74B58192B698B4691C99.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-20.01.00:598][910]LogFileHelpers: Saving map 'TheLevel' took 0.394
+[2026.08.06-20.01.00:606][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 436.360 ms (total: 6.14 sec)
+[2026.08.06-20.01.00:669][910]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-20.01.00:669][910]LogContentValidation: Enabled validators:
+[2026.08.06-20.01.00:669][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-20.01.00:670][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-20.01.00:670][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-20.01.00:670][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-20.01.00:670][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-20.01.00:670][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-20.01.00:670][910]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-20.01.04:579][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.06-20.01.04:584][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-20.01.04:633][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/User/Box_8ED3528E] ([1] browsable assets)...
+[2026.08.06-20.01.04:633][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/User/Box_8ED3528E]
+[2026.08.06-20.01.04:646][279]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/User/Box_8ED3528E
+[2026.08.06-20.01.04:648][279]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/Box_8ED3528EDAD1BDAD487038B1C96E028EE6699285.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/FirstPerson/_GENERATED/User/Box_8ED3528E.uasset'
+[2026.08.06-20.01.04:650][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelBlockout/_GENERATED/User/Box_72CE8414] ([1] browsable assets)...
+[2026.08.06-20.01.04:650][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelBlockout/_GENERATED/User/Box_72CE8414]
+[2026.08.06-20.01.04:661][279]LogSavePackage: Moving output files for package: /Game/LevelBlockout/_GENERATED/User/Box_72CE8414
+[2026.08.06-20.01.04:663][279]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/Box_72CE8414B71ECF0F47BAF972C057DA81C6635053.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/_GENERATED/User/Box_72CE8414.uasset'
+[2026.08.06-20.01.04:676][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.251 ms (total: 6.23 sec)
+[2026.08.06-20.01.04:724][279]LogContentValidation: Display: Starting to validate 2 assets
+[2026.08.06-20.01.04:725][279]LogContentValidation: Enabled validators:
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-20.01.04:725][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-20.01.04:725][279]AssetCheck: /Game/FirstPerson/_GENERATED/User/Box_8ED3528E Validating asset
+[2026.08.06-20.01.04:725][279]AssetCheck: /Game/LevelBlockout/_GENERATED/User/Box_72CE8414 Validating asset
+[2026.08.06-20.01.04:748][279]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.06-20.01.14:521][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
