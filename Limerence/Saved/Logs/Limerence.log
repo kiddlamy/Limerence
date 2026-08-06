@@ -1452,3 +1452,299 @@ FPackageName: Skipped package /Game/Assets+Textures/CultHouse/M_CultHouse has a 
 [2026.08.06-19.26.24:969][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.06-19.26.24:969][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.06-19.26.24:969][283]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.28.00:862][231]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.28.00:865][231]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\Документи\Unreal Projects\Limerence\Limerence\Content\LevelBlockout\ModularAssets\Jay\CultHouse\M_CultHouse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.08.06-19.28.00:955][231]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/CultHouse/M_CultHouse, a dependent package /Game/Assets+Textures/CultHouse/BaseColour was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/CultHouse/BaseColour has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/CultHouse/BaseColour'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.28.00:955][231]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/CultHouse/M_CultHouse, a dependent package /Game/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_Normal was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_Normal has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_Normal'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.28.00:955][231]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/CultHouse/M_CultHouse, a dependent package /Game/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_OcclusionRoughnessMetallic was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_OcclusionRoughnessMetallic has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/CultHouse/TrimSheet_openPBR_shader1_OcclusionRoughnessMetallic'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.28.01:113][246]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.08.06-19.28.28:998][271]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.28.29:073][271]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp, a dependent package /Game/Assets+Textures/ForestLamp/M_ForestLamp was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/ForestLamp/M_ForestLamp has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/ForestLamp/M_ForestLamp'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.28.29:386][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp
+[2026.08.06-19.28.29:386][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp
+[2026.08.06-19.28.29:386][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_265
+[2026.08.06-19.28.30:623][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 334.129547
+[2026.08.06-19.28.30:920][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.28.30:920][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 334.415436, Update Interval: 316.677765
+[2026.08.06-19.28.30:999][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.08.06-19.28.31:003][435]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.08.06-19.28.31:010][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp
+[2026.08.06-19.28.31:010][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp
+[2026.08.06-19.28.31:013][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/ForestLamp/ForestLamp.ForestLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_266
+[2026.08.06-19.28.35:885][946]Cmd: TRANSACTION UNDO
+[2026.08.06-19.28.35:885][946]LogEditorTransaction: Undo Clicking on Elements
+[2026.08.06-19.28.52:019][335]Cmd: EDIT COPY
+[2026.08.06-19.28.52:281][350]Cmd: EDIT PASTE
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Total job queries 588, among them cache hits 150 (25.51%), DDC hits 365 (62.07%), Duplicates 71 (12.07%)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Tracking 367 distinct input hashes that result in 264 distinct outputs (71.93%)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: RAM used: 3.58 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.23 s
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.28
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Shader code size: total 13.121 KiB, numShaders 2, average 6.561 KiB, min 5.879 KiB, max 7.242 KiB
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.28 s
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Total thread time: 1.178 s
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Total thread preprocess time: 11.213 s
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Percentage time preprocessing: 951.93%
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.115116
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 61.18% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.82% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.29.01:912][181]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: === Material stats ===
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Materials Translated:    206
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Material Translation Only: 0.07 s (56%)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: Material Cache Hits: 72 (35%)
+[2026.08.06-19.29.01:913][181]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.29.07:842][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.29.07:961][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.08.06-19.29.08:265][775]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.29.08:266][775]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevelE818ADBD440E5A454CB99D872F72D582.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.29.08:296][775]LogFileHelpers: Saving map 'TheLevel' took 0.405
+[2026.08.06-19.29.08:303][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 462.436 ms (total: 1.33 sec)
+[2026.08.06-19.29.08:361][775]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.29.08:361][775]LogContentValidation: Enabled validators:
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.29.08:361][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.29.08:361][775]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.29.19:065][729]LogStreaming: Display: FlushAsyncLoading(335): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.29.21:569][912]Cmd: TRANSACTION UNDO
+[2026.08.06-19.29.21:569][912]LogEditorTransaction: Undo Place Objects
+[2026.08.06-19.29.24:807][153]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.29.24:809][153]LogStaticMesh: Display: Building static mesh SimpleLamp (Required Memory Estimate: 2.462179 MB)...
+[2026.08.06-19.29.24:826][153]LogStaticMesh: Adjacency [0.00s], tris: 1594, UVs 1
+[2026.08.06-19.29.24:833][153]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.08.06-19.29.24:834][153]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.29.24:885][153]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp, a dependent package /Game/M_SimpleLamp was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/M_SimpleLamp has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/M_SimpleLamp'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.29.24:912][156]LogStaticMesh: Reduce [0.08s]
+[2026.08.06-19.29.24:950][158]LogStaticMesh: Fallback [0.04s], num tris: 876
+[2026.08.06-19.29.24:997][163]LogStaticMesh: Fallback [0.05s], num tris: 600
+[2026.08.06-19.29.25:001][163]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.29.25:001][163]LogStaticMesh:   Input: 27 Clusters, 3357 Triangles and 5811 Vertices
+[2026.08.06-19.29.25:001][163]LogStaticMesh:   Output without splits: 27 Clusters, 3357 Triangles and 5811 Vertices
+[2026.08.06-19.29.25:001][163]LogStaticMesh:   Output with splits: 33 Clusters, 3357 Triangles and 5817 Vertices
+[2026.08.06-19.29.25:001][163]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 33, Slow Path Clusters: 0, 1 Material: 33, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.29.25:002][164]LogStaticMesh: WritePages:
+[2026.08.06-19.29.25:002][164]LogStaticMesh:   Root: GPU size: 32364 bytes. 1 Pages. 32364.000 bytes per page (98.767% utilization).
+[2026.08.06-19.29.25:002][164]LogStaticMesh:   Streaming: GPU size: 32768 bytes. 1 Pages (1 with relative encoding). 32768.000 bytes per page (25.000% utilization).
+[2026.08.06-19.29.25:002][164]LogStaticMesh:   Page data disk size: 55732 bytes. Fixup data size: 264 bytes.
+[2026.08.06-19.29.25:002][164]LogStaticMesh:   Total GPU size: 65132 bytes, Total disk size: 55996 bytes.
+[2026.08.06-19.29.25:002][164]LogStaticMesh: Encode [0.01s]
+[2026.08.06-19.29.25:002][164]LogStaticMesh: NaniteBuild [0.18s]
+[2026.08.06-19.29.25:052][168]LogStaticMesh: Built static mesh [0.24s] /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp
+[2026.08.06-19.29.25:095][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp
+[2026.08.06-19.29.25:095][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp
+[2026.08.06-19.29.25:096][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_268
+[2026.08.06-19.29.26:111][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.29.26:115][251]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.08.06-19.29.26:123][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp
+[2026.08.06-19.29.26:123][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp
+[2026.08.06-19.29.26:125][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/SimpleLamp/SimpleLamp.SimpleLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_298
+[2026.08.06-19.29.28:995][525]Cmd: DELETE
+[2026.08.06-19.29.28:995][525]Cmd: ACTOR DELETE
+[2026.08.06-19.29.29:013][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.29.29:035][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.08.06-19.29.29:039][525]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.08.06-19.30.06:095][649]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.30.06:168][649]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench, a dependent package /Game/Assets+Textures/HorrorBench/M_HorrorBenchStone was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/HorrorBench/M_HorrorBenchStone has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/HorrorBench/M_HorrorBenchStone'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.30.06:168][649]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench, a dependent package /Game/Assets+Textures/HorrorBench/M_HorrorBenchWood was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/HorrorBench/M_HorrorBenchWood has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/HorrorBench/M_HorrorBenchWood'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.30.06:431][674]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench
+[2026.08.06-19.30.06:431][674]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench
+[2026.08.06-19.30.06:432][674]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_299
+[2026.08.06-19.30.08:049][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.08.06-19.30.08:055][844]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.08.06-19.30.08:065][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench
+[2026.08.06-19.30.08:065][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench
+[2026.08.06-19.30.08:068][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageBench/HorrorBench.HorrorBench as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_300
+[2026.08.06-19.30.31:753][909]Cmd: EDIT COPY
+[2026.08.06-19.30.32:010][930]Cmd: EDIT PASTE
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Total job queries 600, among them cache hits 154 (25.67%), DDC hits 372 (62.00%), Duplicates 71 (11.83%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Tracking 375 distinct input hashes that result in 270 distinct outputs (72.00%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: RAM used: 3.63 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Average time worker was idle: 74.55 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.04 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 1.72 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 1.73
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Shader code size: total 24.879 KiB, numShaders 3, average 8.293 KiB, min 5.879 KiB, max 11.758 KiB
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.01 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Average processing rate: 1.00 jobs/sec
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Total thread time: 2.71 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Total thread preprocess time: 11.422 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Percentage time preprocessing: 421.49%
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.112409
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                             FDebugViewModePS - 56.54% of total time (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.59% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.87% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: === Material stats ===
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Materials Translated:    207
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Material Translation Only: 0.07 s (56%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: Material Cache Hits: 72 (35%)
+[2026.08.06-19.32.01:923][278]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.32.02:315][324]Cmd: DELETE
+[2026.08.06-19.32.02:315][324]Cmd: ACTOR DELETE
+[2026.08.06-19.32.02:330][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.32.02:350][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.08.06-19.32.02:354][324]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.08.06-19.32.03:981][504]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.32.04:185][512]Cmd: DELETE
+[2026.08.06-19.32.04:186][512]Cmd: ACTOR DELETE
+[2026.08.06-19.32.04:203][512]LogEditorActor: Deleted Actor: PostProcessVolume
+[2026.08.06-19.32.04:223][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.32.04:226][512]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.32.05:528][662]Cmd: TRANSACTION UNDO
+[2026.08.06-19.32.05:528][662]LogEditorTransaction: Undo Delete Elements
+[2026.08.06-19.32.07:212][785]Cmd: DELETE
+[2026.08.06-19.32.07:212][785]Cmd: ACTOR DELETE
+[2026.08.06-19.32.07:227][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.32.07:245][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.06-19.32.07:250][785]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.08.06-19.32.08:599][913]Cmd: DELETE
+[2026.08.06-19.32.08:599][913]Cmd: ACTOR DELETE
+[2026.08.06-19.32.08:616][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.32.08:637][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.08.06-19.32.08:640][913]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.08.06-19.32.20:528][ 62]Cmd: EDIT COPY
+[2026.08.06-19.32.20:785][ 85]Cmd: EDIT PASTE
+[2026.08.06-19.32.29:858][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-19.32.29:878][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-19.32.29:886][956]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.08.06-19.32.29:887][956]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.08.06-19.32.29:888][956]LogPlayLevel: Creating play world package: /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.32.29:994][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105419s)
+[2026.08.06-19.32.29:994][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBlockout/TheLevel.TheLevel to /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel (0.105796s)
+[2026.08.06-19.32.30:014][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.32.30:019][956]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.32.30:025][956]LogPlayLevel: PIE: World Init took: (0.006171s)
+[2026.08.06-19.32.30:028][956]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-19.32.30:028][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-19.32.30:028][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-19.32.30:028][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-19.32.30:028][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-19.32.30:028][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-19.32.30:030][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-19.32.30:049][956]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2026.08.06-19.32.30:049][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-19.32.30:049][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-19.32.30:049][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-19.32.30:050][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.08.06-19.32.30:050][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.08.06-19.32.30:053][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.08.06-19.32.30:053][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.08.06-19.32.30:053][956]LogInit: FAudioDevice initialized with ID 2.
+[2026.08.06-19.32.30:053][956]LogAudio: Display: Audio Device (ID: 2) registered with world 'TheLevel'.
+[2026.08.06-19.32.30:053][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.08.06-19.32.30:063][956]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.32.30:073][956]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.08.06-19.32.30:121][956]LogWorld: Bringing World /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel up for play (max tick rate 0) at 2026.08.06-20.32.30
+[2026.08.06-19.32.30:153][956]LogWorld: Bringing up level for play took: 0.077692
+[2026.08.06-19.32.30:156][956]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.08.06-19.32.30:197][956]PIE: Server logged in
+[2026.08.06-19.32.30:201][956]PIE: Play in editor total start time 0.33 seconds.
+[2026.08.06-19.32.35:963][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.32.35:963][612]LogWorld: BeginTearingDown for /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.32.35:963][612]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.32.35:965][612]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.32.35:976][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.32.35:980][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-19.32.35:986][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.32.36:010][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.32.36:014][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.08.06-19.32.36:015][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.08.06-19.32.36:017][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.08.06-19.32.36:032][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.08.06-19.32.36:148][613]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.08.06-19.32.50:642][ 80]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.32.50:722][ 80]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp, a dependent package /Game/Assets+Textures/VillageLamp/M_VillageLamp was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/VillageLamp/M_VillageLamp has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/VillageLamp/M_VillageLamp'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.32.50:921][ 92]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp
+[2026.08.06-19.32.50:921][ 92]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp
+[2026.08.06-19.32.50:921][ 92]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_307
+[2026.08.06-19.32.52:159][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.08.06-19.32.52:162][193]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.08.06-19.32.52:171][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp
+[2026.08.06-19.32.52:171][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp
+[2026.08.06-19.32.52:173][193]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/VillageLamp/VillageLamp.VillageLamp as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_308
+[2026.08.06-19.33.19:817][607]Cmd: EDIT COPY
+[2026.08.06-19.33.20:023][627]Cmd: EDIT PASTE
+[2026.08.06-19.33.39:550][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.33.39:678][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.08.06-19.33.39:969][261]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.33.39:970][261]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevelFCD0AEBD477CE5DA99444F9D0FAB1200.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.33.40:005][261]LogFileHelpers: Saving map 'TheLevel' took 0.408
+[2026.08.06-19.33.40:020][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 470.511 ms (total: 1.80 sec)
+[2026.08.06-19.33.40:077][261]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.33.40:077][261]LogContentValidation: Enabled validators:
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.33.40:078][261]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
