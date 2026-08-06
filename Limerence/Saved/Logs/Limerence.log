@@ -2414,3 +2414,212 @@ FPackageName: Skipped package /Game/Assets+Textures/Wagon/M_Wagon has a valid, m
 [2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.06-19.40.05:365][690]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.40.58:393][117]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.06-19.41.21:155][822]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.06-19.41.23:883][130]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.06-19.41.27:024][400]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.08.06-19.41.28:028][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-19.41.28:039][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-19.41.28:067][509]LogPlayLevel: Creating play world package: /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.41.28:169][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101695s)
+[2026.08.06-19.41.28:169][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBlockout/TheLevel.TheLevel to /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel (0.101757s)
+[2026.08.06-19.41.28:194][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.08.06-19.41.28:201][509]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.41.28:204][509]LogPlayLevel: PIE: World Init took: (0.003184s)
+[2026.08.06-19.41.28:206][509]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-19.41.28:206][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-19.41.28:206][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-19.41.28:206][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-19.41.28:206][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-19.41.28:206][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-19.41.28:208][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-19.41.28:226][509]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2026.08.06-19.41.28:226][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-19.41.28:226][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-19.41.28:226][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-19.41.28:227][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.08.06-19.41.28:227][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.08.06-19.41.28:230][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.08.06-19.41.28:230][509]LogInit: FAudioDevice initialized with ID 3.
+[2026.08.06-19.41.28:230][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.08.06-19.41.28:230][509]LogAudio: Display: Audio Device (ID: 3) registered with world 'TheLevel'.
+[2026.08.06-19.41.28:230][509]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.08.06-19.41.28:234][509]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.08.06-19.41.28:279][509]LogWorld: Bringing World /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel up for play (max tick rate 0) at 2026.08.06-20.41.28
+[2026.08.06-19.41.28:280][509]LogWorld: Bringing up level for play took: 0.046037
+[2026.08.06-19.41.28:283][509]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.08.06-19.41.28:288][509]PIE: Server logged in
+[2026.08.06-19.41.28:291][509]PIE: Play in editor total start time 0.252 seconds.
+[2026.08.06-19.41.34:097][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.41.34:098][188]LogWorld: BeginTearingDown for /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.41.34:098][188]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.41.34:099][188]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.41.34:110][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.41.34:112][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-19.41.34:119][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.41.34:143][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.41.34:143][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.08.06-19.41.34:143][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.08.06-19.41.34:145][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.08.06-19.41.34:165][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.08.06-19.41.34:269][189]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.08.06-19.41.40:052][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.41.40:177][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.08.06-19.41.40:454][718]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.41.40:455][718]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel90AB77E3420C92611403F1B7DDD3A998.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.41.40:486][718]LogFileHelpers: Saving map 'TheLevel' took 0.388
+[2026.08.06-19.41.40:502][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 449.226 ms (total: 4.34 sec)
+[2026.08.06-19.41.40:554][718]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.41.40:554][718]LogContentValidation: Enabled validators:
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.41.40:554][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.41.40:555][718]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.42.27:903][723]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.42.27:907][723]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\Документи\Unreal Projects\Limerence\Limerence\Content\LevelBlockout\ModularAssets\Jay\Notes\Note1\M_Note1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.08.06-19.42.27:972][723]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/Notes/Note1/M_Note1, a dependent package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_BaseColor was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_BaseColor has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_BaseColor'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.42.27:972][723]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/Notes/Note1/M_Note1, a dependent package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Emissive was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Emissive has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Emissive'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.42.27:972][723]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/Notes/Note1/M_Note1, a dependent package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Normal was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Normal has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_Normal'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.42.27:972][723]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/Notes/Note1/M_Note1, a dependent package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_OcclusionRoughnessMetallic was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_OcclusionRoughnessMetallic has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/Notes/Note1/Note_low_aiStandardSurface2_OcclusionRoughnessMetallic'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.42.36:836][565]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.42.42:939][111]Cmd: TRANSACTION UNDO
+[2026.08.06-19.42.42:939][111]LogEditorTransaction: Undo Rotate Elements
+[2026.08.06-19.42.43:326][119]Cmd: TRANSACTION UNDO
+[2026.08.06-19.42.43:326][119]LogEditorTransaction: Undo Clicking on Elements
+[2026.08.06-19.43.05:088][509]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.08.06-19.43.36:283][812]Cmd: DELETE
+[2026.08.06-19.43.36:283][812]Cmd: ACTOR DELETE
+[2026.08.06-19.43.36:303][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.43.36:326][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.43.36:332][812]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2026.08.06-19.43.37:858][979]Cmd: EDIT COPY
+[2026.08.06-19.43.38:047][  0]Cmd: EDIT PASTE
+[2026.08.06-19.43.53:001][489]Cmd: DELETE
+[2026.08.06-19.43.53:001][489]Cmd: ACTOR DELETE
+[2026.08.06-19.43.53:017][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.43.53:038][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.08.06-19.43.53:042][489]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.43.55:305][737]Cmd: EDIT COPY
+[2026.08.06-19.43.55:478][756]Cmd: EDIT PASTE
+[2026.08.06-19.44.05:463][751]Cmd: DELETE
+[2026.08.06-19.44.05:463][751]Cmd: ACTOR DELETE
+[2026.08.06-19.44.05:479][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.44.05:500][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.06-19.44.05:504][751]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.44.06:727][859]Cmd: EDIT COPY
+[2026.08.06-19.44.06:923][880]Cmd: EDIT PASTE
+[2026.08.06-19.44.13:351][471]Cmd: DELETE
+[2026.08.06-19.44.13:351][471]Cmd: ACTOR DELETE
+[2026.08.06-19.44.13:368][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.44.13:391][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.08.06-19.44.13:395][471]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2026.08.06-19.44.14:404][567]Cmd: EDIT COPY
+[2026.08.06-19.44.14:605][590]Cmd: EDIT PASTE
+[2026.08.06-19.44.46:932][993]Cmd: DELETE
+[2026.08.06-19.44.46:932][993]Cmd: ACTOR DELETE
+[2026.08.06-19.44.46:948][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.44.46:967][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.44.46:970][993]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.08.06-19.44.49:355][258]Cmd: DELETE
+[2026.08.06-19.44.49:355][258]Cmd: ACTOR DELETE
+[2026.08.06-19.44.49:370][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.44.49:390][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.06-19.44.49:394][258]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.08.06-19.44.50:885][421]Cmd: EDIT COPY
+[2026.08.06-19.44.51:067][440]Cmd: EDIT PASTE
+[2026.08.06-19.44.55:408][859]Cmd: EDIT COPY
+[2026.08.06-19.44.55:409][859]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.08.06-19.44.55:621][882]Cmd: EDIT PASTE
+[2026.08.06-19.45.04:752][802]Cmd: DELETE
+[2026.08.06-19.45.04:752][802]Cmd: ACTOR DELETE
+[2026.08.06-19.45.04:768][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.04:788][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.45.04:792][802]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.08.06-19.45.06:683][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1330.184082
+[2026.08.06-19.45.08:607][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.45.08:607][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.098145, Update Interval: 325.238190
+[2026.08.06-19.45.13:894][816]Cmd: DELETE
+[2026.08.06-19.45.13:894][816]Cmd: ACTOR DELETE
+[2026.08.06-19.45.13:911][816]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.13:931][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.08.06-19.45.13:934][816]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.08.06-19.45.14:397][850]Cmd: DELETE
+[2026.08.06-19.45.14:397][850]Cmd: ACTOR DELETE
+[2026.08.06-19.45.14:397][850]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.08.06-19.45.14:415][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.14:436][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.06-19.45.14:439][850]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.08.06-19.45.15:822][999]Cmd: DELETE
+[2026.08.06-19.45.15:822][999]Cmd: ACTOR DELETE
+[2026.08.06-19.45.15:839][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.15:861][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.06-19.45.15:864][999]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.45.17:743][209]Cmd: DELETE
+[2026.08.06-19.45.17:743][209]Cmd: ACTOR DELETE
+[2026.08.06-19.45.17:759][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.17:780][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.08.06-19.45.17:783][209]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.08.06-19.45.18:544][285]Cmd: DELETE
+[2026.08.06-19.45.18:544][285]Cmd: ACTOR DELETE
+[2026.08.06-19.45.18:565][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.18:585][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.06-19.45.18:588][285]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.08.06-19.45.19:943][430]Cmd: DELETE
+[2026.08.06-19.45.19:943][430]Cmd: ACTOR DELETE
+[2026.08.06-19.45.19:962][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.45.19:982][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.06-19.45.19:986][430]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.08.06-19.45.28:865][305]Cmd: EDIT COPY
+[2026.08.06-19.45.29:141][336]Cmd: EDIT PASTE
+[2026.08.06-19.46.04:868][533]Cmd: DELETE
+[2026.08.06-19.46.04:868][533]Cmd: ACTOR DELETE
+[2026.08.06-19.46.04:883][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.46.04:904][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.06-19.46.04:910][533]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.08.06-19.46.26:618][703]Cmd: DELETE
+[2026.08.06-19.46.26:618][703]Cmd: ACTOR DELETE
+[2026.08.06-19.46.26:633][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.46.26:652][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.06-19.46.26:657][703]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.08.06-19.46.28:184][873]Cmd: DELETE
+[2026.08.06-19.46.28:184][873]Cmd: ACTOR DELETE
+[2026.08.06-19.46.28:200][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.46.28:220][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.08.06-19.46.28:223][873]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.08.06-19.47.12:740][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.47.12:845][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.08.06-19.47.13:148][433]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.47.13:149][433]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevelE6F8DA734DAC3A6793541EBC79F975D5.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.47.13:181][433]LogFileHelpers: Saving map 'TheLevel' took 0.405
+[2026.08.06-19.47.13:189][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 447.942 ms (total: 4.79 sec)
+[2026.08.06-19.47.13:243][433]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.47.13:243][433]LogContentValidation: Enabled validators:
+[2026.08.06-19.47.13:243][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.47.13:243][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.47.13:244][433]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
