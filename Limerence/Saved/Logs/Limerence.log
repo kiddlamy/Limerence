@@ -1748,3 +1748,669 @@ FPackageName: Skipped package /Game/Assets+Textures/VillageLamp/M_VillageLamp ha
 [2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.06-19.33.40:077][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.06-19.33.40:078][261]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.33.50:021][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 653.528809
+[2026.08.06-19.33.51:355][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.33.51:355][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 654.528992, Update Interval: 334.688568
+[2026.08.06-19.35.26:260][806]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.35.26:337][806]LoadErrors: Warning: While trying to load package /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon, a dependent package /Game/Assets+Textures/Wagon/M_Wagon was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets+Textures/Wagon/M_Wagon has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/Assets+Textures/Wagon/M_Wagon'. Perhaps it has been deleted or was not synced?
+
+[2026.08.06-19.35.26:570][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon
+[2026.08.06-19.35.26:570][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon
+[2026.08.06-19.35.26:571][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_310
+[2026.08.06-19.35.27:500][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.08.06-19.35.27:502][904]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.08.06-19.35.27:510][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon
+[2026.08.06-19.35.27:510][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon
+[2026.08.06-19.35.27:513][904]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelBlockout/ModularAssets/Jay/Wagon/Wagon.Wagon as actor: StaticMeshActor /Game/LevelBlockout/TheLevel.TheLevel:PersistentLevel.StaticMeshActor_312
+[2026.08.06-19.36.17:677][267]Cmd: DELETE
+[2026.08.06-19.36.17:677][267]Cmd: ACTOR DELETE
+[2026.08.06-19.36.17:693][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.36.17:716][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.06-19.36.17:721][267]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.08.06-19.36.21:606][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.36.21:703][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.06-19.36.21:985][700]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.36.21:986][700]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevelC0DFD07A4F7F019711AF22AB8852DC28.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.36.22:015][700]LogFileHelpers: Saving map 'TheLevel' took 0.375
+[2026.08.06-19.36.22:031][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 424.832 ms (total: 2.23 sec)
+[2026.08.06-19.36.22:095][700]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.36.22:095][700]LogContentValidation: Enabled validators:
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.36.22:095][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.36.22:096][700]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.36.42:664][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.08.06-19.36.42:669][856]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.36.42:793][856]LogStaticMesh: Display: Building static mesh SM_CornerWall_Brick (Required Memory Estimate: 1.561331 MB)...
+[2026.08.06-19.36.42:799][856]LogStaticMesh: Adjacency [0.00s], tris: 1012, UVs 1
+[2026.08.06-19.36.42:801][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.42:801][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.42:862][856]LogStaticMesh: Reduce [0.06s]
+[2026.08.06-19.36.42:863][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.42:863][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.42:866][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.42:866][856]LogStaticMesh:   Input: 15 Clusters, 1894 Triangles and 1766 Vertices
+[2026.08.06-19.36.42:866][856]LogStaticMesh:   Output without splits: 15 Clusters, 1894 Triangles and 1769 Vertices
+[2026.08.06-19.36.42:866][856]LogStaticMesh:   Output with splits: 15 Clusters, 1894 Triangles and 1769 Vertices
+[2026.08.06-19.36.42:866][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 15, Slow Path Clusters: 0, 1 Material: 15, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.42:867][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.42:867][856]LogStaticMesh:   Root: GPU size: 22724 bytes. 1 Pages. 22724.000 bytes per page (69.348% utilization).
+[2026.08.06-19.36.42:867][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.42:867][856]LogStaticMesh:   Page data disk size: 20032 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.42:867][856]LogStaticMesh:   Total GPU size: 22724 bytes, Total disk size: 20104 bytes.
+[2026.08.06-19.36.42:867][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.42:867][856]LogStaticMesh: NaniteBuild [0.07s]
+[2026.08.06-19.36.42:870][856]LogChaosDD: Creating Chaos Debug Draw Scene for world Cult_Village
+[2026.08.06-19.36.42:894][856]LogStaticMesh: Built static mesh [0.10s] /Game/LevelBlockout/ModularAssets/Village/Z_CornerWall_Brick/SM_CornerWall_Brick.SM_CornerWall_Brick
+[2026.08.06-19.36.42:921][856]LogStaticMesh: Display: Building static mesh SM_Doorway_Brick (Required Memory Estimate: 2.046082 MB)...
+[2026.08.06-19.36.42:932][856]LogStaticMesh: Adjacency [0.00s], tris: 1328, UVs 1
+[2026.08.06-19.36.42:935][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.42:935][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.42:961][856]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelBlockout/ModularAssets/Village/Cult_Village.Cult_Village
+[2026.08.06-19.36.43:047][856]LogStaticMesh: Reduce [0.11s]
+[2026.08.06-19.36.43:062][856]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.08.06-19.36.43:063][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:067][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:067][856]LogStaticMesh:   Input: 23 Clusters, 2840 Triangles and 2896 Vertices
+[2026.08.06-19.36.43:067][856]LogStaticMesh:   Output without splits: 23 Clusters, 2840 Triangles and 2897 Vertices
+[2026.08.06-19.36.43:067][856]LogStaticMesh:   Output with splits: 23 Clusters, 2840 Triangles and 2897 Vertices
+[2026.08.06-19.36.43:067][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 23, Slow Path Clusters: 0, 1 Material: 23, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:068][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:068][856]LogStaticMesh:   Root: GPU size: 31932 bytes. 1 Pages. 31932.000 bytes per page (97.449% utilization).
+[2026.08.06-19.36.43:068][856]LogStaticMesh:   Streaming: GPU size: 4480 bytes. 1 Pages (1 with relative encoding). 4480.000 bytes per page (3.418% utilization).
+[2026.08.06-19.36.43:068][856]LogStaticMesh:   Page data disk size: 29676 bytes. Fixup data size: 240 bytes.
+[2026.08.06-19.36.43:068][856]LogStaticMesh:   Total GPU size: 36412 bytes, Total disk size: 29916 bytes.
+[2026.08.06-19.36.43:068][856]LogStaticMesh: Encode [0.01s]
+[2026.08.06-19.36.43:068][856]LogStaticMesh: NaniteBuild [0.14s]
+[2026.08.06-19.36.43:097][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_CornerWall_Brick/Cornerwall_brick_ORM.Cornerwall_brick_ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1184.999983 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.43:103][856]LogStaticMesh: Built static mesh [0.18s] /Game/LevelBlockout/ModularAssets/Village/Z_Doorway_Brick/SM_Doorway_Brick.SM_Doorway_Brick
+[2026.08.06-19.36.43:113][856]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.36.43:113][856]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.36.43:115][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.36.43:124][856]LogStaticMesh: Display: Building static mesh SM_Floor (Required Memory Estimate: 0.174971 MB)...
+[2026.08.06-19.36.43:126][856]LogStaticMesh: Adjacency [0.00s], tris: 108, UVs 1
+[2026.08.06-19.36.43:126][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:126][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:126][856]LogStaticMesh: Reduce [0.00s]
+[2026.08.06-19.36.43:126][856]LogStaticMesh: Fallback [0.00s], num tris: 108
+[2026.08.06-19.36.43:127][856]LogStaticMesh: Fallback [0.00s], num tris: 108
+[2026.08.06-19.36.43:127][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Input: 1 Clusters, 108 Triangles and 96 Vertices
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Output without splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Output with splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2026.08.06-19.36.43:127][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:127][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Root: GPU size: 1232 bytes. 1 Pages. 1232.000 bytes per page (3.760% utilization).
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Page data disk size: 1476 bytes. Fixup data size: 24 bytes.
+[2026.08.06-19.36.43:127][856]LogStaticMesh:   Total GPU size: 1232 bytes, Total disk size: 1500 bytes.
+[2026.08.06-19.36.43:127][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:127][856]LogStaticMesh: NaniteBuild [0.00s]
+[2026.08.06-19.36.43:135][856]LogStaticMesh: Built static mesh [0.01s] /Game/LevelBlockout/ModularAssets/Village/Z_Floor/SM_Floor.SM_Floor
+[2026.08.06-19.36.43:160][856]LogStaticMesh: Display: Building static mesh SM_HalfWall_Brick (Required Memory Estimate: 0.917057 MB)...
+[2026.08.06-19.36.43:164][856]LogStaticMesh: Adjacency [0.00s], tris: 592, UVs 1
+[2026.08.06-19.36.43:165][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:166][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:189][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.06-19.36.43:201][856]LogStaticMesh: Reduce [0.04s]
+[2026.08.06-19.36.43:202][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:203][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:204][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Input: 11 Clusters, 1348 Triangles and 1310 Vertices
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Output without splits: 11 Clusters, 1348 Triangles and 1310 Vertices
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Output with splits: 11 Clusters, 1348 Triangles and 1310 Vertices
+[2026.08.06-19.36.43:205][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:205][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Root: GPU size: 16696 bytes. 1 Pages. 16696.000 bytes per page (50.952% utilization).
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Page data disk size: 13100 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:205][856]LogStaticMesh:   Total GPU size: 16696 bytes, Total disk size: 13172 bytes.
+[2026.08.06-19.36.43:205][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:205][856]LogStaticMesh: NaniteBuild [0.04s]
+[2026.08.06-19.36.43:235][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.08.06-19.36.43:239][856]LogStaticMesh: Built static mesh [0.08s] /Game/LevelBlockout/ModularAssets/Village/Z_HalfWall_Brick/SM_HalfWall_Brick.SM_HalfWall_Brick
+[2026.08.06-19.36.43:247][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_Doorway_Brick/Doorway_Brick_colour.Doorway_Brick_colour (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1184.999983 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.43:251][856]LogStaticMesh: Display: Building static mesh SM_Pillar_Thin (Required Memory Estimate: 0.29735 MB)...
+[2026.08.06-19.36.43:251][856]LogStaticMesh: Display: Building static mesh SM_Window_Plaster (Required Memory Estimate: 1.185127 MB)...
+[2026.08.06-19.36.43:253][856]LogStaticMesh: Display: Building static mesh SM_Doorway_Plaster (Required Memory Estimate: 2.043678 MB)...
+[2026.08.06-19.36.43:254][856]LogStaticMesh: Adjacency [0.00s], tris: 188, UVs 1
+[2026.08.06-19.36.43:254][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:254][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:259][856]LogStaticMesh: Reduce [0.00s]
+[2026.08.06-19.36.43:259][856]LogStaticMesh: Adjacency [0.00s], tris: 768, UVs 1
+[2026.08.06-19.36.43:260][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:260][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:261][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.166667
+[2026.08.06-19.36.43:261][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:261][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:261][856]LogStaticMesh:   Input: 3 Clusters, 314 Triangles and 331 Vertices
+[2026.08.06-19.36.43:261][856]LogStaticMesh:   Output without splits: 3 Clusters, 314 Triangles and 331 Vertices
+[2026.08.06-19.36.43:261][856]LogStaticMesh:   Output with splits: 3 Clusters, 314 Triangles and 331 Vertices
+[2026.08.06-19.36.43:261][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:262][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:262][856]LogStaticMesh:   Root: GPU size: 4104 bytes. 1 Pages. 4104.000 bytes per page (12.524% utilization).
+[2026.08.06-19.36.43:262][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:262][856]LogStaticMesh:   Page data disk size: 3836 bytes. Fixup data size: 40 bytes.
+[2026.08.06-19.36.43:262][856]LogStaticMesh:   Total GPU size: 4104 bytes, Total disk size: 3876 bytes.
+[2026.08.06-19.36.43:262][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:262][856]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.06-19.36.43:284][856]LogStaticMesh: Display: Waiting for static meshes to be ready 5/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Window_Plaster/SM_Window_Plaster) ...
+[2026.08.06-19.36.43:289][856]LogStaticMesh: Built static mesh [0.04s] /Game/LevelBlockout/ModularAssets/Village/Z_Pillar_Thin/SM_Pillar_Thin.SM_Pillar_Thin
+[2026.08.06-19.36.43:292][856]LogStaticMesh: Adjacency [0.00s], tris: 1328, UVs 1
+[2026.08.06-19.36.43:293][856]LogStaticMesh: Display: Building static mesh SM_Pillar_Half (Required Memory Estimate: 0.29735 MB)...
+[2026.08.06-19.36.43:295][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:295][856]LogStaticMesh: Adjacency [0.00s], tris: 188, UVs 1
+[2026.08.06-19.36.43:295][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:295][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:295][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:300][856]LogStaticMesh: Reduce [0.00s]
+[2026.08.06-19.36.43:300][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:301][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:302][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Input: 3 Clusters, 314 Triangles and 305 Vertices
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Output without splits: 3 Clusters, 314 Triangles and 305 Vertices
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Output with splits: 3 Clusters, 314 Triangles and 305 Vertices
+[2026.08.06-19.36.43:302][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:302][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Root: GPU size: 3896 bytes. 1 Pages. 3896.000 bytes per page (11.890% utilization).
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Page data disk size: 3532 bytes. Fixup data size: 40 bytes.
+[2026.08.06-19.36.43:302][856]LogStaticMesh:   Total GPU size: 3896 bytes, Total disk size: 3572 bytes.
+[2026.08.06-19.36.43:302][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:302][856]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.06-19.36.43:306][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_CornerWall_Brick/Cornerwall_Brick_Colour.Cornerwall_Brick_Colour (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1184.999983 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.43:314][856]LogStaticMesh: Reduce [0.05s]
+[2026.08.06-19.36.43:315][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:316][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:317][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:317][856]LogStaticMesh:   Input: 13 Clusters, 1524 Triangles and 1555 Vertices
+[2026.08.06-19.36.43:317][856]LogStaticMesh:   Output without splits: 13 Clusters, 1524 Triangles and 1558 Vertices
+[2026.08.06-19.36.43:317][856]LogStaticMesh:   Output with splits: 13 Clusters, 1524 Triangles and 1558 Vertices
+[2026.08.06-19.36.43:317][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 13, Slow Path Clusters: 0, 1 Material: 13, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:317][856]LogStaticMesh: Built static mesh [0.02s] /Game/LevelBlockout/ModularAssets/Village/Z_Pillar_Half/SM_Pillar_Half.SM_Pillar_Half
+[2026.08.06-19.36.43:318][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:318][856]LogStaticMesh:   Root: GPU size: 19392 bytes. 1 Pages. 19392.000 bytes per page (59.180% utilization).
+[2026.08.06-19.36.43:318][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:318][856]LogStaticMesh:   Page data disk size: 16676 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:318][856]LogStaticMesh:   Total GPU size: 19392 bytes, Total disk size: 16748 bytes.
+[2026.08.06-19.36.43:318][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:318][856]LogStaticMesh: NaniteBuild [0.06s]
+[2026.08.06-19.36.43:319][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_CornerWall_Brick/Cornerwall_brick_Normal.Cornerwall_brick_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.43:322][856]LogStaticMesh: Display: Building static mesh SM_Pillar (Required Memory Estimate: 0.29735 MB)...
+[2026.08.06-19.36.43:324][856]LogStaticMesh: Adjacency [0.00s], tris: 188, UVs 1
+[2026.08.06-19.36.43:324][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:324][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:329][856]LogStaticMesh: Reduce [0.01s]
+[2026.08.06-19.36.43:330][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:331][856]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.08.06-19.36.43:331][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Input: 3 Clusters, 314 Triangles and 296 Vertices
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Output without splits: 3 Clusters, 314 Triangles and 296 Vertices
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Output with splits: 3 Clusters, 314 Triangles and 296 Vertices
+[2026.08.06-19.36.43:331][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:331][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Root: GPU size: 3896 bytes. 1 Pages. 3896.000 bytes per page (11.890% utilization).
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Page data disk size: 3532 bytes. Fixup data size: 40 bytes.
+[2026.08.06-19.36.43:331][856]LogStaticMesh:   Total GPU size: 3896 bytes, Total disk size: 3572 bytes.
+[2026.08.06-19.36.43:332][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:332][856]LogStaticMesh: NaniteBuild [0.01s]
+[2026.08.06-19.36.43:347][856]LogStaticMesh: Built static mesh [0.10s] /Game/LevelBlockout/ModularAssets/Village/Z_Window_Plaster/SM_Window_Plaster.SM_Window_Plaster
+[2026.08.06-19.36.43:348][856]LogStaticMesh: Built static mesh [0.03s] /Game/LevelBlockout/ModularAssets/Village/Z_Pillar/SM_Pillar.SM_Pillar
+[2026.08.06-19.36.43:352][856]LogStaticMesh: Display: Building static mesh SM_Roof (Required Memory Estimate: 0.646343 MB)...
+[2026.08.06-19.36.43:356][856]LogStaticMesh: Adjacency [0.00s], tris: 416, UVs 1
+[2026.08.06-19.36.43:356][856]LogStaticMesh: Display: Building static mesh SM_SM_Crates_Stacked (Required Memory Estimate: 1.793499 MB)...
+[2026.08.06-19.36.43:357][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.06-19.36.43:357][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:366][856]LogStaticMesh: Display: Waiting for static meshes to be ready 9/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Doorway_Plaster/SM_Doorway_Plaster) ...
+[2026.08.06-19.36.43:378][856]LogStaticMesh: Reduce [0.02s]
+[2026.08.06-19.36.43:379][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:380][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:381][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Input: 9 Clusters, 794 Triangles and 790 Vertices
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Output without splits: 9 Clusters, 794 Triangles and 790 Vertices
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Output with splits: 9 Clusters, 794 Triangles and 790 Vertices
+[2026.08.06-19.36.43:381][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:381][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Root: GPU size: 10252 bytes. 1 Pages. 10252.000 bytes per page (31.287% utilization).
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Page data disk size: 8860 bytes. Fixup data size: 56 bytes.
+[2026.08.06-19.36.43:381][856]LogStaticMesh:   Total GPU size: 10252 bytes, Total disk size: 8916 bytes.
+[2026.08.06-19.36.43:381][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:381][856]LogStaticMesh: NaniteBuild [0.03s]
+[2026.08.06-19.36.43:392][856]LogStaticMesh: Reduce [0.10s]
+[2026.08.06-19.36.43:403][856]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.08.06-19.36.43:404][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:409][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:409][856]LogStaticMesh:   Input: 23 Clusters, 2840 Triangles and 2729 Vertices
+[2026.08.06-19.36.43:409][856]LogStaticMesh:   Output without splits: 23 Clusters, 2840 Triangles and 2738 Vertices
+[2026.08.06-19.36.43:409][856]LogStaticMesh:   Output with splits: 23 Clusters, 2840 Triangles and 2738 Vertices
+[2026.08.06-19.36.43:409][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 23, Slow Path Clusters: 0, 1 Material: 23, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:409][856]LogStaticMesh: Built static mesh [0.06s] /Game/LevelBlockout/ModularAssets/Village/Z_Roof/SM_Roof.SM_Roof
+[2026.08.06-19.36.43:410][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:410][856]LogStaticMesh:   Root: GPU size: 31476 bytes. 1 Pages. 31476.000 bytes per page (96.057% utilization).
+[2026.08.06-19.36.43:410][856]LogStaticMesh:   Streaming: GPU size: 2720 bytes. 1 Pages (1 with relative encoding). 2720.000 bytes per page (2.075% utilization).
+[2026.08.06-19.36.43:410][856]LogStaticMesh:   Page data disk size: 28140 bytes. Fixup data size: 240 bytes.
+[2026.08.06-19.36.43:410][856]LogStaticMesh:   Total GPU size: 34196 bytes, Total disk size: 28380 bytes.
+[2026.08.06-19.36.43:410][856]LogStaticMesh: Encode [0.01s]
+[2026.08.06-19.36.43:410][856]LogStaticMesh: NaniteBuild [0.12s]
+[2026.08.06-19.36.43:414][856]LogStaticMesh: Display: Building static mesh SM_SM_Barrels_Stacked (Required Memory Estimate: 5.480319 MB)...
+[2026.08.06-19.36.43:440][856]LogStaticMesh: Built static mesh [0.19s] /Game/LevelBlockout/ModularAssets/Village/Z_Doorway_Plaster/SM_Doorway_Plaster.SM_Doorway_Plaster
+[2026.08.06-19.36.43:453][856]LogStaticMesh: Display: Building static mesh SM_Barrel (Required Memory Estimate: 2.507688 MB)...
+[2026.08.06-19.36.43:461][856]LogStaticMesh: Built static mesh [0.10s] /Game/LevelBlockout/ModularAssets/Village/Z_Crate/SM_SM_Crates_Stacked.SM_SM_Crates_Stacked
+[2026.08.06-19.36.43:462][856]LogStaticMesh: Display: Waiting for static meshes to be ready 11/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Crate/SM_SM_Crates_Stacked) ...
+[2026.08.06-19.36.43:468][856]LogStaticMesh: Display: Building static mesh SM_Crate (Required Memory Estimate: 0.836174 MB)...
+[2026.08.06-19.36.43:469][856]LogStaticMesh: Adjacency [0.00s], tris: 1612, UVs 1
+[2026.08.06-19.36.43:473][856]LogStaticMesh: Adjacency [0.00s], tris: 528, UVs 1
+[2026.08.06-19.36.43:476][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2026.08.06-19.36.43:476][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:477][856]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.08.06-19.36.43:478][856]LogStaticMesh: Display: Waiting for static meshes to be ready 12/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Barrel/SM_SM_Barrels_Stacked) ...
+[2026.08.06-19.36.43:478][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:509][856]LogStaticMesh: Reduce [0.03s]
+[2026.08.06-19.36.43:527][856]LogStaticMesh: Fallback [0.02s], num tris: 295
+[2026.08.06-19.36.43:537][856]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.08.06-19.36.43:539][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Input: 14 Clusters, 1284 Triangles and 1614 Vertices
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Output without splits: 14 Clusters, 1284 Triangles and 1614 Vertices
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Output with splits: 14 Clusters, 1284 Triangles and 1614 Vertices
+[2026.08.06-19.36.43:540][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:540][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Root: GPU size: 19336 bytes. 1 Pages. 19336.000 bytes per page (59.009% utilization).
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Page data disk size: 15996 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:540][856]LogStaticMesh:   Total GPU size: 19336 bytes, Total disk size: 16068 bytes.
+[2026.08.06-19.36.43:540][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:540][856]LogStaticMesh: NaniteBuild [0.07s]
+[2026.08.06-19.36.43:570][856]LogStaticMesh: Built static mesh [0.10s] /Game/LevelBlockout/ModularAssets/Village/Z_Crate/SM_Crate.SM_Crate
+[2026.08.06-19.36.43:578][856]LogStaticMesh: Display: Building static mesh SM_Lantern (Required Memory Estimate: 2.500945 MB)...
+[2026.08.06-19.36.43:585][856]LogStaticMesh: Reduce [0.11s]
+[2026.08.06-19.36.43:592][856]LogStaticMesh: Adjacency [0.00s], tris: 1622, UVs 1
+[2026.08.06-19.36.43:598][856]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.08.06-19.36.43:598][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:638][856]LogStaticMesh: Fallback [0.05s], num tris: 728
+[2026.08.06-19.36.43:705][856]LogStaticMesh: Fallback [0.07s], num tris: 484
+[2026.08.06-19.36.43:706][856]LogStaticMesh: Reduce [0.11s]
+[2026.08.06-19.36.43:709][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:709][856]LogStaticMesh:   Input: 27 Clusters, 3374 Triangles and 4004 Vertices
+[2026.08.06-19.36.43:709][856]LogStaticMesh:   Output without splits: 27 Clusters, 3374 Triangles and 4006 Vertices
+[2026.08.06-19.36.43:709][856]LogStaticMesh:   Output with splits: 27 Clusters, 3374 Triangles and 4006 Vertices
+[2026.08.06-19.36.43:709][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 27, Slow Path Clusters: 0, 1 Material: 27, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:711][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:711][856]LogStaticMesh:   Root: GPU size: 31644 bytes. 1 Pages. 31644.000 bytes per page (96.570% utilization).
+[2026.08.06-19.36.43:711][856]LogStaticMesh:   Streaming: GPU size: 17144 bytes. 1 Pages (1 with relative encoding). 17144.000 bytes per page (13.080% utilization).
+[2026.08.06-19.36.43:711][856]LogStaticMesh:   Page data disk size: 41416 bytes. Fixup data size: 256 bytes.
+[2026.08.06-19.36.43:711][856]LogStaticMesh:   Total GPU size: 48788 bytes, Total disk size: 41672 bytes.
+[2026.08.06-19.36.43:711][856]LogStaticMesh: Encode [0.01s]
+[2026.08.06-19.36.43:711][856]LogStaticMesh: NaniteBuild [0.24s]
+[2026.08.06-19.36.43:717][856]LogStaticMesh: Built static mesh [0.30s] /Game/LevelBlockout/ModularAssets/Village/Z_Barrel/SM_SM_Barrels_Stacked.SM_SM_Barrels_Stacked
+[2026.08.06-19.36.43:729][856]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 0.648092 MB)...
+[2026.08.06-19.36.43:734][856]LogStaticMesh: Adjacency [0.00s], tris: 412, UVs 1
+[2026.08.06-19.36.43:735][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.08.06-19.36.43:735][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:738][856]LogStaticMesh: Display: Waiting for static meshes to be ready 14/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Barrel/SM_Barrel) ...
+[2026.08.06-19.36.43:739][856]LogStaticMesh: Fallback [0.03s], num tris: 463
+[2026.08.06-19.36.43:752][856]LogStaticMesh: Built static mesh [0.30s] /Game/LevelBlockout/ModularAssets/Village/Z_Barrel/SM_Barrel.SM_Barrel
+[2026.08.06-19.36.43:764][856]LogStaticMesh: Reduce [0.03s]
+[2026.08.06-19.36.43:768][856]LogStaticMesh: Display: Building static mesh SM_House_1 (Required Memory Estimate: 109.446257 MB)...
+[2026.08.06-19.36.43:770][856]LogStaticMesh: Display: Waiting for static meshes to be ready 15/25 (/Game/LevelBlockout/ModularAssets/Village/Z_Lantern/SM_Lantern) ...
+[2026.08.06-19.36.43:776][856]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.08.06-19.36.43:777][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:778][856]LogStaticMesh: Fallback [0.04s], num tris: 296
+[2026.08.06-19.36.43:778][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Input: 9 Clusters, 790 Triangles and 997 Vertices
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Output without splits: 9 Clusters, 790 Triangles and 997 Vertices
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Output with splits: 9 Clusters, 790 Triangles and 997 Vertices
+[2026.08.06-19.36.43:778][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:778][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Root: GPU size: 11892 bytes. 1 Pages. 11892.000 bytes per page (36.292% utilization).
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Page data disk size: 12108 bytes. Fixup data size: 56 bytes.
+[2026.08.06-19.36.43:778][856]LogStaticMesh:   Total GPU size: 11892 bytes, Total disk size: 12164 bytes.
+[2026.08.06-19.36.43:778][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:778][856]LogStaticMesh: NaniteBuild [0.04s]
+[2026.08.06-19.36.43:781][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:782][856]LogStaticMesh:   Input: 27 Clusters, 3385 Triangles and 3307 Vertices
+[2026.08.06-19.36.43:782][856]LogStaticMesh:   Output without splits: 27 Clusters, 3385 Triangles and 3314 Vertices
+[2026.08.06-19.36.43:782][856]LogStaticMesh:   Output with splits: 27 Clusters, 3385 Triangles and 3314 Vertices
+[2026.08.06-19.36.43:782][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 27, Slow Path Clusters: 0, 1 Material: 27, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:783][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:783][856]LogStaticMesh:   Root: GPU size: 31900 bytes. 1 Pages. 31900.000 bytes per page (97.351% utilization).
+[2026.08.06-19.36.43:783][856]LogStaticMesh:   Streaming: GPU size: 5892 bytes. 1 Pages (1 with relative encoding). 5892.000 bytes per page (4.495% utilization).
+[2026.08.06-19.36.43:783][856]LogStaticMesh:   Page data disk size: 35356 bytes. Fixup data size: 256 bytes.
+[2026.08.06-19.36.43:783][856]LogStaticMesh:   Total GPU size: 37792 bytes, Total disk size: 35612 bytes.
+[2026.08.06-19.36.43:783][856]LogStaticMesh: Encode [0.01s]
+[2026.08.06-19.36.43:783][856]LogStaticMesh: NaniteBuild [0.19s]
+[2026.08.06-19.36.43:803][856]LogStaticMesh: Built static mesh [0.07s] /Game/LevelBlockout/ModularAssets/Village/Z_Door/SM_Door.SM_Door
+[2026.08.06-19.36.43:808][856]LogStaticMesh: Display: Building static mesh SM_House_2 (Required Memory Estimate: 113.691788 MB)...
+[2026.08.06-19.36.43:816][856]LogStaticMesh: Built static mesh [0.24s] /Game/LevelBlockout/ModularAssets/Village/Z_Lantern/SM_Lantern.SM_Lantern
+[2026.08.06-19.36.43:830][856]LogStaticMesh: Display: Building static mesh SM_TriangleWall_Plaster (Required Memory Estimate: 0.817188 MB)...
+[2026.08.06-19.36.43:830][856]LogStaticMesh: Display: Building static mesh SM_Halfwall_Plaster (Required Memory Estimate: 0.915668 MB)...
+[2026.08.06-19.36.43:834][856]LogStaticMesh: Display: Waiting for static meshes to be ready 17/25 (/Game/LevelBlockout/ModularAssets/Village/Houses/SM_House_1) ...
+[2026.08.06-19.36.43:835][856]LogStaticMesh: Adjacency [0.00s], tris: 528, UVs 1
+[2026.08.06-19.36.43:835][856]LogStaticMesh: Adjacency [0.00s], tris: 592, UVs 1
+[2026.08.06-19.36.43:836][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2026.08.06-19.36.43:836][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:836][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:836][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:864][856]LogStaticMesh: Reduce [0.03s]
+[2026.08.06-19.36.43:865][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:866][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:867][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:867][856]LogStaticMesh:   Input: 14 Clusters, 1284 Triangles and 1059 Vertices
+[2026.08.06-19.36.43:867][856]LogStaticMesh:   Output without splits: 14 Clusters, 1284 Triangles and 1061 Vertices
+[2026.08.06-19.36.43:867][856]LogStaticMesh:   Output with splits: 14 Clusters, 1284 Triangles and 1061 Vertices
+[2026.08.06-19.36.43:867][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:868][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:868][856]LogStaticMesh:   Root: GPU size: 14204 bytes. 1 Pages. 14204.000 bytes per page (43.347% utilization).
+[2026.08.06-19.36.43:868][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:868][856]LogStaticMesh:   Page data disk size: 11484 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:868][856]LogStaticMesh:   Total GPU size: 14204 bytes, Total disk size: 11556 bytes.
+[2026.08.06-19.36.43:868][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:868][856]LogStaticMesh: NaniteBuild [0.03s]
+[2026.08.06-19.36.43:870][856]LogStaticMesh: Reduce [0.03s]
+[2026.08.06-19.36.43:871][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:872][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:873][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:873][856]LogStaticMesh:   Input: 11 Clusters, 1348 Triangles and 1220 Vertices
+[2026.08.06-19.36.43:873][856]LogStaticMesh:   Output without splits: 11 Clusters, 1348 Triangles and 1224 Vertices
+[2026.08.06-19.36.43:873][856]LogStaticMesh:   Output with splits: 11 Clusters, 1348 Triangles and 1224 Vertices
+[2026.08.06-19.36.43:873][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:874][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:874][856]LogStaticMesh:   Root: GPU size: 15364 bytes. 1 Pages. 15364.000 bytes per page (46.887% utilization).
+[2026.08.06-19.36.43:874][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:874][856]LogStaticMesh:   Page data disk size: 12028 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:874][856]LogStaticMesh:   Total GPU size: 15364 bytes, Total disk size: 12100 bytes.
+[2026.08.06-19.36.43:874][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:874][856]LogStaticMesh: NaniteBuild [0.04s]
+[2026.08.06-19.36.43:890][856]LogStaticMesh: Built static mesh [0.06s] /Game/LevelBlockout/ModularAssets/Village/Z_TriangleWall_Plaster/SM_TriangleWall_Plaster.SM_TriangleWall_Plaster
+[2026.08.06-19.36.43:896][856]LogStaticMesh: Built static mesh [0.07s] /Game/LevelBlockout/ModularAssets/Village/Z_Halfwall_Plaster/SM_Halfwall_Plaster.SM_Halfwall_Plaster
+[2026.08.06-19.36.43:897][856]LogStaticMesh: Display: Building static mesh SM_Wall_Brick (Required Memory Estimate: 1.284328 MB)...
+[2026.08.06-19.36.43:904][856]LogStaticMesh: Adjacency [0.00s], tris: 832, UVs 1
+[2026.08.06-19.36.43:905][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:905][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:906][856]LogStaticMesh: Display: Building static mesh SM_Wall_Plaster (Required Memory Estimate: 1.282486 MB)...
+[2026.08.06-19.36.43:914][856]LogStaticMesh: Adjacency [0.00s], tris: 832, UVs 1
+[2026.08.06-19.36.43:915][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.43:915][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.43:956][856]LogStaticMesh: Reduce [0.05s]
+[2026.08.06-19.36.43:957][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:958][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:960][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Input: 14 Clusters, 1714 Triangles and 1674 Vertices
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Output without splits: 14 Clusters, 1714 Triangles and 1674 Vertices
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Output with splits: 14 Clusters, 1714 Triangles and 1674 Vertices
+[2026.08.06-19.36.43:960][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:960][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Root: GPU size: 21524 bytes. 1 Pages. 21524.000 bytes per page (65.686% utilization).
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Page data disk size: 17304 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:960][856]LogStaticMesh:   Total GPU size: 21524 bytes, Total disk size: 17376 bytes.
+[2026.08.06-19.36.43:960][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:960][856]LogStaticMesh: NaniteBuild [0.06s]
+[2026.08.06-19.36.43:969][856]LogStaticMesh: Reduce [0.05s]
+[2026.08.06-19.36.43:970][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:971][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.43:972][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.43:972][856]LogStaticMesh:   Input: 14 Clusters, 1714 Triangles and 1558 Vertices
+[2026.08.06-19.36.43:972][856]LogStaticMesh:   Output without splits: 14 Clusters, 1714 Triangles and 1571 Vertices
+[2026.08.06-19.36.43:972][856]LogStaticMesh:   Output with splits: 14 Clusters, 1714 Triangles and 1571 Vertices
+[2026.08.06-19.36.43:972][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.43:973][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.43:973][856]LogStaticMesh:   Root: GPU size: 19964 bytes. 1 Pages. 19964.000 bytes per page (60.925% utilization).
+[2026.08.06-19.36.43:973][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.43:973][856]LogStaticMesh:   Page data disk size: 16068 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.43:973][856]LogStaticMesh:   Total GPU size: 19964 bytes, Total disk size: 16140 bytes.
+[2026.08.06-19.36.43:973][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.43:973][856]LogStaticMesh: NaniteBuild [0.06s]
+[2026.08.06-19.36.43:986][856]LogStaticMesh: Built static mesh [0.09s] /Game/LevelBlockout/ModularAssets/Village/Z_Wall_Brick/SM_Wall_Brick.SM_Wall_Brick
+[2026.08.06-19.36.43:994][856]LogStaticMesh: Display: Building static mesh SM_Window_Brick (Required Memory Estimate: 1.187744 MB)...
+[2026.08.06-19.36.43:998][856]LogStaticMesh: Built static mesh [0.09s] /Game/LevelBlockout/ModularAssets/Village/Z_Wall_Plaster/SM_Wall_Plaster.SM_Wall_Plaster
+[2026.08.06-19.36.44:000][856]LogStaticMesh: Adjacency [0.00s], tris: 768, UVs 1
+[2026.08.06-19.36.44:002][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.166667
+[2026.08.06-19.36.44:002][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.44:005][856]LogStaticMesh: Display: Building static mesh SM_CornerWall_Plaster (Required Memory Estimate: 1.559061 MB)...
+[2026.08.06-19.36.44:013][856]LogStaticMesh: Adjacency [0.00s], tris: 1012, UVs 1
+[2026.08.06-19.36.44:015][856]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.08.06-19.36.44:015][856]LogStaticMesh: Leaves [0.00s]
+[2026.08.06-19.36.44:055][856]LogStaticMesh: Reduce [0.05s]
+[2026.08.06-19.36.44:068][856]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.08.06-19.36.44:069][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.44:072][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Input: 13 Clusters, 1524 Triangles and 1745 Vertices
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Output without splits: 13 Clusters, 1524 Triangles and 1745 Vertices
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Output with splits: 13 Clusters, 1524 Triangles and 1745 Vertices
+[2026.08.06-19.36.44:072][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 13, Slow Path Clusters: 0, 1 Material: 13, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.44:072][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Root: GPU size: 21868 bytes. 1 Pages. 21868.000 bytes per page (66.736% utilization).
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Page data disk size: 18112 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.44:072][856]LogStaticMesh:   Total GPU size: 21868 bytes, Total disk size: 18184 bytes.
+[2026.08.06-19.36.44:072][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.44:072][856]LogStaticMesh: NaniteBuild [0.07s]
+[2026.08.06-19.36.44:078][856]LogStaticMesh: Reduce [0.06s]
+[2026.08.06-19.36.44:079][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.44:080][856]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.08.06-19.36.44:082][856]LogStaticMesh: ConstrainClusters:
+[2026.08.06-19.36.44:082][856]LogStaticMesh:   Input: 15 Clusters, 1894 Triangles and 1626 Vertices
+[2026.08.06-19.36.44:082][856]LogStaticMesh:   Output without splits: 15 Clusters, 1894 Triangles and 1633 Vertices
+[2026.08.06-19.36.44:082][856]LogStaticMesh:   Output with splits: 15 Clusters, 1894 Triangles and 1633 Vertices
+[2026.08.06-19.36.44:082][856]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 15, Slow Path Clusters: 0, 1 Material: 15, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.06-19.36.44:083][856]LogStaticMesh: WritePages:
+[2026.08.06-19.36.44:083][856]LogStaticMesh:   Root: GPU size: 20732 bytes. 1 Pages. 20732.000 bytes per page (63.269% utilization).
+[2026.08.06-19.36.44:083][856]LogStaticMesh:   Streaming: 0 bytes.
+[2026.08.06-19.36.44:083][856]LogStaticMesh:   Page data disk size: 18252 bytes. Fixup data size: 72 bytes.
+[2026.08.06-19.36.44:083][856]LogStaticMesh:   Total GPU size: 20732 bytes, Total disk size: 18324 bytes.
+[2026.08.06-19.36.44:083][856]LogStaticMesh: Encode [0.00s]
+[2026.08.06-19.36.44:083][856]LogStaticMesh: NaniteBuild [0.07s]
+[2026.08.06-19.36.44:101][856]LogStaticMesh: Built static mesh [0.11s] /Game/LevelBlockout/ModularAssets/Village/Z_Window_Brick/SM_Window_Brick.SM_Window_Brick
+[2026.08.06-19.36.44:107][856]LogStaticMesh: Built static mesh [0.10s] /Game/LevelBlockout/ModularAssets/Village/Z_CornerWall_Plaster/SM_CornerWall_Plaster.SM_CornerWall_Plaster
+[2026.08.06-19.36.44:869][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_Doorway_Brick/Doorway_Brick_Normal.Doorway_Brick_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.44:886][856]LogTexture: Display: Building textures: /Game/LevelBlockout/ModularAssets/Village/Z_Floor/Floor_Normal.Floor_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.08.06-19.36.45:105][856]LogStaticMesh: Built static mesh [1.34s] /Game/LevelBlockout/ModularAssets/Village/Houses/SM_House_1.SM_House_1
+[2026.08.06-19.36.45:215][856]LogStaticMesh: Built static mesh [1.41s] /Game/LevelBlockout/ModularAssets/Village/Houses/SM_House_2.SM_House_2
+[2026.08.06-19.36.45:482][856]LogStaticMesh: Display: Waiting for static meshes to be ready 24/25 (/Game/LevelBlockout/ModularAssets/Village/Houses/SM_House_2) ...
+[2026.08.06-19.36.46:848][856]LogWorld: UWorld::CleanupWorld for Cult_Village, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.36.46:851][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.36.46:882][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.08.06-19.36.46:904][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.08.06-19.36.46:956][856]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cult_Village'.
+[2026.08.06-19.36.46:956][856]LogChaosDD: Creating Chaos Debug Draw Scene for world Cult_Village
+[2026.08.06-19.36.47:029][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.06-19.36.47:061][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.36.47:082][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.06-19.36.47:082][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2026.08.06-19.37.12:269][855]Cmd: EDIT COPY
+[2026.08.06-19.37.17:419][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.08.06-19.37.18:675][207]LogSlate: Window 'Save Content' being destroyed
+[2026.08.06-19.37.18:683][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.37.18:794][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.06-19.37.18:987][207]LogSavePackage: Moving output files for package: /Game/LevelBlockout/ModularAssets/Village/Cult_Village
+[2026.08.06-19.37.18:989][207]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/Cult_Village31910D3347ECF0EF40D3EABDD53A4110.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/ModularAssets/Village/Cult_Village.umap'
+[2026.08.06-19.37.19:014][207]LogFileHelpers: Saving map 'Cult_Village' took 0.281
+[2026.08.06-19.37.19:065][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 381.847 ms (total: 2.61 sec)
+[2026.08.06-19.37.19:065][207]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.37.19:144][207]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.37.19:182][207]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelBlockout/TheLevel.TheLevel
+[2026.08.06-19.37.19:182][207]Cmd: MAP LOAD FILE="../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.06-19.37.19:245][207]LogWorld: UWorld::CleanupWorld for Cult_Village, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.37.19:246][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.37.19:295][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.06-19.37.19:306][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.08.06-19.37.19:315][207]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.37.19:320][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.37.19:352][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.08.06-19.37.19:374][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.06-19.37.19:461][207]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheLevel'.
+[2026.08.06-19.37.19:461][207]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.37.19:549][207]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.06-19.37.19:595][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.08.06-19.37.19:619][207]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.06-19.37.19:619][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2026.08.06-19.37.19:694][207]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.37.19:694][207]LogContentValidation: Enabled validators:
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.37.19:695][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.37.19:777][207]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.06-19.37.22:751][521]Cmd: EDIT PASTE
+[2026.08.06-19.37.51:156][ 96]Cmd: DELETE
+[2026.08.06-19.37.51:156][ 96]Cmd: ACTOR DELETE
+[2026.08.06-19.37.51:172][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.37.51:193][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.37.51:197][ 96]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Total job queries 688, among them cache hits 233 (33.87%), DDC hits 378 (54.94%), Duplicates 71 (10.32%)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 276 distinct outputs (71.88%)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: RAM used: 3.69 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Shaders Compiled: 6
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Average time worker was idle: 347.21 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 3.25 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Job life time (pending + execution): average 1.89 s, max 3.30
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Shader code size: total 72.988 KiB, numShaders 6, average 12.164 KiB, min 5.879 KiB, max 20.754 KiB
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.37 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Average processing rate: 0.94 jobs/sec
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Total thread time: 8.656 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Total thread preprocess time: 13.461 s
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Percentage time preprocessing: 155.50%
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Effective parallelization: 1.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.169864
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.84 sec, max 2.84 sec, min 2.84 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.27 sec, max 2.27 sec, min 2.27 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.78 sec, max 0.84 sec, min 0.72 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 32.78% of total time (compiled    1 times, average 2.84 sec, max 2.84 sec, min 2.84 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                                 FLumenCardCS - 26.24% of total time (compiled    1 times, average 2.27 sec, max 2.27 sec, min 2.27 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.00% of total time (compiled    2 times, average 0.78 sec, max 0.84 sec, min 0.72 sec)
+[2026.08.06-19.38.02:260][384]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.70% of total time (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.28% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: === Material stats ===
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Materials Translated:    231
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Material Translation Only: 0.08 s (54%)
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: Material Cache Hits: 74 (32%)
+[2026.08.06-19.38.02:261][384]LogShaderCompilers: Display: ================================================
+[2026.08.06-19.38.03:751][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.38.03:855][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.06-19.38.04:139][552]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.38.04:140][552]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel318DE60F475D8F254CC27B83C101ABE1.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.38.04:171][552]LogFileHelpers: Saving map 'TheLevel' took 0.377
+[2026.08.06-19.38.04:188][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 436.482 ms (total: 3.04 sec)
+[2026.08.06-19.38.04:247][552]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.38.04:247][552]LogContentValidation: Enabled validators:
+[2026.08.06-19.38.04:247][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.38.04:247][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.38.04:248][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.38.04:248][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.38.04:248][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.38.04:248][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.38.04:248][552]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.38.08:811][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.08.06-19.38.08:813][ 39]LogStreaming: Display: FlushAsyncLoading(346): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.38.08:870][ 39]LogChaosDD: Creating Chaos Debug Draw Scene for world Cult_Village
+[2026.08.06-19.38.08:896][ 39]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelBlockout/ModularAssets/Village/Cult_Village.Cult_Village
+[2026.08.06-19.38.09:016][ 39]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.38.09:016][ 39]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.38.09:017][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.38.09:054][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.06-19.38.09:070][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.08.06-19.38.09:074][ 39]LogWorld: UWorld::CleanupWorld for Cult_Village, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.38.09:077][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.38.09:109][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.08.06-19.38.09:133][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.08.06-19.38.09:198][ 39]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cult_Village'.
+[2026.08.06-19.38.09:198][ 39]LogChaosDD: Creating Chaos Debug Draw Scene for world Cult_Village
+[2026.08.06-19.38.09:302][ 39]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.06-19.38.09:346][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.08.06-19.38.09:375][ 39]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.06-19.38.09:376][ 39]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2026.08.06-19.38.28:341][414]Cmd: EDIT COPY
+[2026.08.06-19.38.32:246][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.08.06-19.38.33:504][740]LogSlate: Window 'Save Content' being destroyed
+[2026.08.06-19.38.33:513][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.38.33:634][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.08.06-19.38.33:839][740]LogSavePackage: Moving output files for package: /Game/LevelBlockout/ModularAssets/Village/Cult_Village
+[2026.08.06-19.38.33:841][740]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/Cult_Village1254FBA844E3438ACC8AF8BA00414FF6.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/ModularAssets/Village/Cult_Village.umap'
+[2026.08.06-19.38.33:871][740]LogFileHelpers: Saving map 'Cult_Village' took 0.307
+[2026.08.06-19.38.33:925][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 410.927 ms (total: 3.46 sec)
+[2026.08.06-19.38.33:925][740]LogStreaming: Display: FlushAsyncLoading(348): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.38.34:006][740]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.38.34:043][740]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelBlockout/TheLevel.TheLevel
+[2026.08.06-19.38.34:044][740]Cmd: MAP LOAD FILE="../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.08.06-19.38.34:140][740]LogWorld: UWorld::CleanupWorld for Cult_Village, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.38.34:141][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.38.34:183][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.06-19.38.34:198][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.08.06-19.38.34:205][740]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.38.34:209][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.38.34:243][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.08.06-19.38.34:266][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.06-19.38.34:358][740]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheLevel'.
+[2026.08.06-19.38.34:358][740]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.38.34:447][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.06-19.38.34:501][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.06-19.38.34:521][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.06-19.38.34:521][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2026.08.06-19.38.34:619][740]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.38.34:619][740]LogContentValidation: Enabled validators:
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.38.34:619][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.38.39:234][167]Cmd: EDIT PASTE
+[2026.08.06-19.39.02:099][ 40]Cmd: DELETE
+[2026.08.06-19.39.02:099][ 40]Cmd: ACTOR DELETE
+[2026.08.06-19.39.02:117][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.39.02:137][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.08.06-19.39.02:141][ 40]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.39.13:090][212]Cmd: EDIT COPY
+[2026.08.06-19.39.13:310][228]Cmd: EDIT PASTE
+[2026.08.06-19.39.28:337][491]Cmd: DELETE
+[2026.08.06-19.39.28:338][491]Cmd: ACTOR DELETE
+[2026.08.06-19.39.28:357][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.39.28:375][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.06-19.39.28:379][491]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.08.06-19.39.33:672][ 32]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 997.177795
+[2026.08.06-19.39.33:920][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.39.33:920][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.414734, Update Interval: 320.590851
+[2026.08.06-19.39.35:136][151]Cmd: DELETE
+[2026.08.06-19.39.35:136][151]Cmd: ACTOR DELETE
+[2026.08.06-19.39.35:152][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.39.35:173][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.08.06-19.39.35:177][151]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.39.37:824][441]Cmd: EDIT COPY
+[2026.08.06-19.39.38:047][462]Cmd: EDIT PASTE
+[2026.08.06-19.40.04:873][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.40.04:988][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.08.06-19.40.05:265][690]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.40.05:267][690]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel39D54C5A46AA00C2CCF823ADD9F1C300.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.40.05:297][690]LogFileHelpers: Saving map 'TheLevel' took 0.372
+[2026.08.06-19.40.05:305][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 432.562 ms (total: 3.89 sec)
+[2026.08.06-19.40.05:364][690]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.40.05:364][690]LogContentValidation: Enabled validators:
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.40.05:364][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.40.05:365][690]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
