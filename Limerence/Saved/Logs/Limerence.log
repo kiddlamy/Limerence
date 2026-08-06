@@ -2623,3 +2623,398 @@ FPackageName: Skipped package /Game/Assets+Textures/Notes/Note1/Note_low_aiStand
 [2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.08.06-19.47.13:244][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.08.06-19.47.13:244][433]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.48.17:912][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-19.48.17:923][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-19.48.17:923][360]LogPlayLevel: Creating play world package: /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.48.18:023][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099575s)
+[2026.08.06-19.48.18:023][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBlockout/TheLevel.TheLevel to /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel (0.099621s)
+[2026.08.06-19.48.18:044][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.06-19.48.18:045][360]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.48.18:047][360]LogPlayLevel: PIE: World Init took: (0.002326s)
+[2026.08.06-19.48.18:049][360]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-19.48.18:049][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-19.48.18:049][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-19.48.18:049][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-19.48.18:049][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-19.48.18:049][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-19.48.18:051][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-19.48.18:069][360]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2026.08.06-19.48.18:070][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-19.48.18:070][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-19.48.18:070][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-19.48.18:070][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.08.06-19.48.18:070][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.08.06-19.48.18:074][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.08.06-19.48.18:074][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.08.06-19.48.18:074][360]LogInit: FAudioDevice initialized with ID 4.
+[2026.08.06-19.48.18:074][360]LogAudio: Display: Audio Device (ID: 4) registered with world 'TheLevel'.
+[2026.08.06-19.48.18:074][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.08.06-19.48.18:078][360]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.08.06-19.48.18:128][360]LogWorld: Bringing World /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel up for play (max tick rate 0) at 2026.08.06-20.48.18
+[2026.08.06-19.48.18:129][360]LogWorld: Bringing up level for play took: 0.051101
+[2026.08.06-19.48.18:132][360]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.08.06-19.48.18:137][360]PIE: Server logged in
+[2026.08.06-19.48.18:140][360]PIE: Play in editor total start time 0.217 seconds.
+[2026.08.06-19.48.24:668][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.48.24:668][122]LogWorld: BeginTearingDown for /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.48.24:668][122]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.48.24:669][122]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.48.24:680][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.48.24:682][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-19.48.24:688][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.48.24:715][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.48.24:720][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.08.06-19.48.24:720][122]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.08.06-19.48.24:722][122]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.08.06-19.48.24:738][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.08.06-19.48.24:862][123]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.08.06-19.48.29:113][529]Cmd: EDIT COPY
+[2026.08.06-19.48.29:343][554]Cmd: EDIT PASTE
+[2026.08.06-19.49.19:887][553]Cmd: EDIT COPY
+[2026.08.06-19.49.20:106][577]Cmd: EDIT PASTE
+[2026.08.06-19.50.09:427][615]Cmd: EDIT COPY
+[2026.08.06-19.50.09:697][638]Cmd: EDIT PASTE
+[2026.08.06-19.50.14:443][ 93]Cmd: TRANSACTION UNDO
+[2026.08.06-19.50.14:443][ 93]LogEditorTransaction: Undo Clicking on Elements
+[2026.08.06-19.50.15:131][119]Cmd: TRANSACTION UNDO
+[2026.08.06-19.50.15:132][119]LogEditorTransaction: Undo Clicking on Elements
+[2026.08.06-19.50.32:359][673]Cmd: EDIT CUT
+[2026.08.06-19.50.32:377][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.08.06-19.50.32:397][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.08.06-19.50.32:401][673]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.08.06-19.50.33:551][808]Cmd: TRANSACTION UNDO
+[2026.08.06-19.50.33:551][808]LogEditorTransaction: Undo Cut
+[2026.08.06-19.50.35:330][943]Cmd: EDIT COPY
+[2026.08.06-19.50.35:544][964]Cmd: EDIT PASTE
+[2026.08.06-19.50.45:048][871]Cmd: EDIT COPY
+[2026.08.06-19.50.45:293][898]Cmd: EDIT PASTE
+[2026.08.06-19.50.57:666][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1681.167236
+[2026.08.06-19.50.58:006][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.50.58:006][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1681.484009, Update Interval: 357.039093
+[2026.08.06-19.51.08:097][108]Cmd: EDIT COPY
+[2026.08.06-19.51.08:368][133]Cmd: EDIT PASTE
+[2026.08.06-19.52.13:201][488]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-19.52.13:211][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-19.52.13:212][488]LogPlayLevel: Creating play world package: /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.52.13:323][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111794s)
+[2026.08.06-19.52.13:323][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBlockout/TheLevel.TheLevel to /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel (0.111844s)
+[2026.08.06-19.52.13:345][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.08.06-19.52.13:349][488]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.52.13:351][488]LogPlayLevel: PIE: World Init took: (0.002547s)
+[2026.08.06-19.52.13:353][488]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-19.52.13:353][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-19.52.13:353][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-19.52.13:353][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-19.52.13:353][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-19.52.13:353][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-19.52.13:356][488]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-19.52.13:375][488]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2026.08.06-19.52.13:375][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-19.52.13:375][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-19.52.13:375][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-19.52.13:377][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.08.06-19.52.13:377][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.08.06-19.52.13:379][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.08.06-19.52.13:379][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.08.06-19.52.13:379][488]LogInit: FAudioDevice initialized with ID 5.
+[2026.08.06-19.52.13:379][488]LogAudio: Display: Audio Device (ID: 5) registered with world 'TheLevel'.
+[2026.08.06-19.52.13:379][488]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.08.06-19.52.13:384][488]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.08.06-19.52.13:437][488]LogWorld: Bringing World /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel up for play (max tick rate 0) at 2026.08.06-20.52.13
+[2026.08.06-19.52.13:438][488]LogWorld: Bringing up level for play took: 0.053864
+[2026.08.06-19.52.13:441][488]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.08.06-19.52.13:448][488]PIE: Server logged in
+[2026.08.06-19.52.13:451][488]PIE: Play in editor total start time 0.24 seconds.
+[2026.08.06-19.52.25:047][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.52.25:047][848]LogWorld: BeginTearingDown for /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.52.25:047][848]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.52.25:049][848]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.52.25:060][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.52.25:061][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-19.52.25:068][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.52.25:094][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.52.25:098][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.08.06-19.52.25:098][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.08.06-19.52.25:101][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.08.06-19.52.25:121][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.08.06-19.52.25:242][849]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.08.06-19.52.31:525][447]Cmd: EDIT COPY
+[2026.08.06-19.52.31:834][478]Cmd: EDIT PASTE
+[2026.08.06-19.52.47:300][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.08.06-19.52.47:311][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.06-19.52.47:337][  6]LogPlayLevel: Creating play world package: /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.52.47:454][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117254s)
+[2026.08.06-19.52.47:454][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBlockout/TheLevel.TheLevel to /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel (0.117315s)
+[2026.08.06-19.52.47:475][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.08.06-19.52.47:479][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world TheLevel
+[2026.08.06-19.52.47:481][  6]LogPlayLevel: PIE: World Init took: (0.002335s)
+[2026.08.06-19.52.47:482][  6]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.06-19.52.47:482][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.08.06-19.52.47:482][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.06-19.52.47:482][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.06-19.52.47:482][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.06-19.52.47:482][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.06-19.52.47:485][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.08.06-19.52.47:506][  6]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2026.08.06-19.52.47:506][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.06-19.52.47:506][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.06-19.52.47:506][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.06-19.52.47:507][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.08.06-19.52.47:507][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.08.06-19.52.47:509][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.08.06-19.52.47:509][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.08.06-19.52.47:509][  6]LogInit: FAudioDevice initialized with ID 6.
+[2026.08.06-19.52.47:509][  6]LogAudio: Display: Audio Device (ID: 6) registered with world 'TheLevel'.
+[2026.08.06-19.52.47:509][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.08.06-19.52.47:513][  6]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.08.06-19.52.47:563][  6]LogWorld: Bringing World /Game/LevelBlockout/UEDPIE_0_TheLevel.TheLevel up for play (max tick rate 0) at 2026.08.06-20.52.47
+[2026.08.06-19.52.47:564][  6]LogWorld: Bringing up level for play took: 0.050765
+[2026.08.06-19.52.47:567][  6]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.08.06-19.52.47:574][  6]PIE: Server logged in
+[2026.08.06-19.52.47:577][  6]PIE: Play in editor total start time 0.267 seconds.
+[2026.08.06-19.52.52:357][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.52.52:357][564]LogWorld: BeginTearingDown for /Game/LevelBlockout/UEDPIE_0_TheLevel
+[2026.08.06-19.52.52:357][564]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.08.06-19.52.52:358][564]LogWorld: UWorld::CleanupWorld for TheLevel, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.52.52:369][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.52.52:370][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.06-19.52.52:377][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.52.52:406][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.06-19.52.52:410][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.08.06-19.52.52:411][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.08.06-19.52.52:413][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.08.06-19.52.52:428][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.06-19.52.52:552][565]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.08.06-19.52.57:850][ 63]Cmd: EDIT COPY
+[2026.08.06-19.52.58:062][ 84]Cmd: EDIT PASTE
+[2026.08.06-19.53.14:703][624]Cmd: EDIT COPY
+[2026.08.06-19.53.14:993][653]Cmd: EDIT PASTE
+[2026.08.06-19.53.39:699][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.53.39:824][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.08.06-19.53.40:121][ 88]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.53.40:123][ 88]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel41AE517442D46154303F47B959E1CF7E.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.53.40:154][ 88]LogFileHelpers: Saving map 'TheLevel' took 0.407
+[2026.08.06-19.53.40:162][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 463.778 ms (total: 5.25 sec)
+[2026.08.06-19.53.40:224][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.53.40:224][ 88]LogContentValidation: Enabled validators:
+[2026.08.06-19.53.40:224][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.53.40:225][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.53.40:225][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.53.40:225][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.53.40:225][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.53.40:225][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.53.40:225][ 88]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
+[2026.08.06-19.54.30:569][826]Cmd: EDIT COPY
+[2026.08.06-19.54.30:799][848]Cmd: EDIT PASTE
+[2026.08.06-19.55.29:092][411]Cmd: EDIT COPY
+[2026.08.06-19.55.29:327][435]Cmd: EDIT PASTE
+[2026.08.06-19.55.43:188][857]Cmd: EDIT COPY
+[2026.08.06-19.55.43:407][882]Cmd: EDIT PASTE
+[2026.08.06-19.56.32:897][996]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.56.33:000][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.08.06-19.56.33:016][996]LogStreaming: Display: FlushAsyncLoading(352): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.06-19.56.36:533][144]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.36:552][144]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.36:638][144]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.56.36:638][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.56.36:699][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.08.06-19.56.39:518][431]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2026.08.06-19.56.39:569][431]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.08.06-19.56.41:728][431]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2026.08.06-19.56.42:099][431]MaterialEditorStats: Texture samplers: 0/16
+[2026.08.06-19.56.42:099][431]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.06-19.56.42:099][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.06-19.56.42:099][431]MaterialEditorStats: Shader Count: 0
+[2026.08.06-19.56.42:099][431]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.06-19.56.42:115][431]LogSlate: Took 0.008981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Texture samplers: 3/16
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Shader Count: 2
+[2026.08.06-19.56.42:355][433]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.08.06-19.56.43:839][522]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2026.08.06-19.56.43:844][522]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2026.08.06-19.56.43:897][522]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.56.43:897][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.56.43:973][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.56.44:735][591]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.56.44:810][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.08.06-19.56.47:712][714]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.47:747][714]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.47:827][714]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.56.47:827][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.56.47:887][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.08.06-19.56.50:107][935]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.56.50:185][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.08.06-19.56.52:863][ 45]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.52:898][ 45]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.52:979][ 45]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.56.52:979][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.56.53:036][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.08.06-19.56.55:227][265]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.56.55:308][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.08.06-19.56.58:019][373]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.58:034][373]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.56.58:137][373]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.56.58:137][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.56.58:202][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.08.06-19.57.00:056][564]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.00:137][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.08.06-19.57.02:770][671]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.02:804][671]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.02:869][671]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.02:869][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.02:927][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.08.06-19.57.05:229][893]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.05:312][893]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.08.06-19.57.07:861][991]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.07:896][991]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.07:984][991]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.07:984][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.08:073][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.08.06-19.57.11:680][337]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.11:754][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.08.06-19.57.15:822][537]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.15:859][537]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.15:941][537]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.15:941][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.16:002][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.08.06-19.57.18:261][762]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.18:318][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.08.06-19.57.21:309][885]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.21:327][885]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.21:427][885]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.21:427][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.21:483][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.08.06-19.57.24:273][164]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.24:346][164]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.08.06-19.57.26:831][261]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.26:866][261]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.26:943][261]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.26:944][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.27:000][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.57.30:381][606]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.30:456][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.08.06-19.57.33:277][709]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.33:284][709]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.33:388][709]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.33:388][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.33:467][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.08.06-19.57.35:386][885]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.35:460][885]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.08.06-19.57.38:275][999]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.38:287][999]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.38:387][999]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.38:387][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.38:447][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.57.40:686][218]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.40:769][218]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.08.06-19.57.43:595][333]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.43:612][333]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.43:683][333]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.43:683][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.43:743][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.08.06-19.57.45:969][552]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.46:049][552]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.08.06-19.57.47:085][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2090.594971
+[2026.08.06-19.57.47:258][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.06-19.57.47:259][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2090.751221, Update Interval: 344.422729
+[2026.08.06-19.57.48:544][647]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.48:555][647]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.48:634][647]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.48:634][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.48:695][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.06-19.57.50:529][832]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.50:611][832]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.08.06-19.57.52:982][917]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.52:994][917]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.57.53:072][917]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.57.53:072][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.57.53:138][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.08.06-19.57.55:182][120]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.57.55:254][120]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.08.06-19.58.00:866][171]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.00:878][171]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.00:986][171]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.00:986][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.01:047][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.58.03:019][358]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.58.03:098][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.08.06-19.58.05:649][454]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.05:661][454]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.05:757][454]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.05:757][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.05:814][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.08.06-19.58.07:700][629]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.58.07:779][629]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.08.06-19.58.10:875][752]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.10:887][752]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.10:972][752]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.10:972][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.11:033][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.06-19.58.13:125][947]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.58.13:208][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.08.06-19.58.15:651][ 37]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.15:664][ 37]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.15:766][ 37]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.15:766][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.15:824][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.58.17:551][197]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelBlockout/_GENERATED/User/Box_72CE8414.Box_72CE8414
+[2026.08.06-19.58.17:623][197]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.08.06-19.58.22:249][424]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.22:282][424]LogSlate: Window 'Box_72CE8414' being destroyed
+[2026.08.06-19.58.22:362][424]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.22:362][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.22:422][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.06-19.58.27:155][866]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/User/Box_8ED3528E.Box_8ED3528E
+[2026.08.06-19.58.27:228][866]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.08.06-19.58.30:303][971]LogSlate: Window 'Box_8ED3528E' being destroyed
+[2026.08.06-19.58.30:323][971]LogSlate: Window 'Box_8ED3528E' being destroyed
+[2026.08.06-19.58.30:405][971]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.08.06-19.58.30:406][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.06-19.58.30:467][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.08.06-19.58.39:590][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.06-19.58.39:720][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.08.06-19.58.39:996][902]LogSavePackage: Moving output files for package: /Game/LevelBlockout/TheLevel
+[2026.08.06-19.58.39:998][902]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Saved/TheLevel3150EB42419052813DD68CBB4C6B1551.tmp' to '../../../../../../Users/User/OneDrive/Документи/Unreal Projects/Limerence/Limerence/Content/LevelBlockout/TheLevel.umap'
+[2026.08.06-19.58.40:032][902]LogFileHelpers: Saving map 'TheLevel' took 0.397
+[2026.08.06-19.58.40:048][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 457.516 ms (total: 5.71 sec)
+[2026.08.06-19.58.40:101][902]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.06-19.58.40:101][902]LogContentValidation: Enabled validators:
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.06-19.58.40:101][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.06-19.58.40:102][902]AssetCheck: /Game/LevelBlockout/TheLevel Validating asset
