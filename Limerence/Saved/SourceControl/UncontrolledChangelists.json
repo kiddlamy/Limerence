@@ -10,7 +10,17 @@
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/meshes/SM_walldoor2.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/meshes/SM_floor2.uasset",
 				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Flame/Particles/NiagraSystem/NS_Candle.uasset",
-				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Niagara/NS_Flame_OO.uasset"
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Niagara/NS_Flame_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/CameraOverlay-Limerence.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/SpiritCam_Overlay.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/M_SpiritCam_Overlay_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/M_SpiritCameraOverlay_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/GameOver_SCreen.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/WinPage_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/Enemy/AI_Enemy_OO.uasset",
+				"C:/Users/KiddL/Documents/GitHub/Limerence/Limerence/Content/ProgrammerMechanics/Effects_OO/Overlay/GameOver_OO.uasset"
 			]
 		}
 	]
